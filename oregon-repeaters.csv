@@ -1,460 +1,460 @@
-State ID,Rptr ID,Frequency,Input Freq,PL,TSQ,Nearest City,Landmark,County,State,Country,Lat,Long,Precise,Callsign,Use,Operational Status,ARES,RACES,SKYWARN,CANWARN,AllStar Node,EchoLink Node,IRLP Node,Wires Node,FM Analog,DMR,DMR Color Code,DMR ID,D-Star,NXDN,APCO P-25,P-25 NAC,M17,M17 CAN,Tetra,Tetra MCC,Tetra MNC,System Fusion,YSF DG ID Uplink,YSF DG IS Downlink,YSF DSC,Notes,Last Update
-41,2,145.17000,144.57000,110.9,110.9,Lime,Lime Hill,Baker,Oregon,United States,44.43144989,-117.24941254,1,W7NYW,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,3,145.27000,144.67000,110.9,110.9,Baker City,Beaver Mountain,Baker,Oregon,United States,44.58649826,-117.78700256,1,W7NYW,OPEN,On-air,No,No,No,No,0,414516,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,18776,147.12000,147.72000,100.0,,Huntington,,Baker,Oregon,United States,44.35127260,-117.26656860,0,K7OJI,OPEN,Unknown,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-10-09
-41,14,146.78000,146.18000,156.7,107.2,Corvallis,Marys Peak,Benton,Oregon,United States,44.50469971,-123.55300140,1,K7CVO,OPEN,On-air,Yes,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-09-06
-41,16,147.16000,147.76000,100.0,,Corvallis,Vineyard Mountain,Benton,Oregon,United States,44.64039993,-123.27500153,1,W7OSU,OPEN,On-air,Yes,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-09-07
-41,17,441.97500,446.97500,100.0,,Corvallis,West Marys Peak,Benton,Oregon,United States,44.50469971,-123.55300140,1,W7CQZ,OPEN,Unknown,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-02-19
-41,19,442.30000,447.30000,162.2,,Corvallis,Good Sam Hospital,Benton,Oregon,United States,44.60120010,-123.25299835,1,N8GFO,OPEN,On-air,Yes,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-02-19
-41,3089,440.42500,445.42500,D125,D125,Corvallis,Mary's Peak,Benton,Oregon,United States,44.50469971,-123.55300140,1,K7LNK,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"4,097 feet ASL.",2020-10-09
-41,6277,146.82000,146.22000,100.0,100.0,Corvallis,Marys Peak,Benton,Oregon,United States,44.50759888,-123.57599640,1,WA7TUV,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,7445,443.05000,448.05000,D032,D032,Corvallis,Dearborn Hall,Benton,Oregon,United States,44.56733720,-123.27552370,1,W7OSU,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,Yes,00,00,Open,On-campus repeater for club communications.,2022-02-24
-41,12350,440.80000,445.80000,D125,,Corvallis,,Benton,Oregon,United States,44.56460190,-123.26200104,0,AB7BS,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-06-24
-41,18785,441.72500,446.72500,136.5,,Corvallis,,Benton,Oregon,United States,44.56456590,-123.26204350,0,AB7BS,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-07-04
-41,19703,444.27500,449.27500,67.0,,Corvallis,Marys Peak,Benton,Oregon,United States,44.50750000,-123.57528000,1,K7WVD,OPEN,On-air,No,No,No,No,0,0,0,,Yes,Yes,1,312072,No,No,No,,No,,No,,,No,,,,"Please be sure to disconnect from reflectors & talkgroups when you are finished. Monitoring Talkgroups and reflectors occupy the repeater, preventing other modes from being used. Please be courteous! 67.0PL for analog operation.",2022-12-03
-41,26,146.94000,146.34000,CSQ,,Clackamas,Mt Scott,Clackamas,Oregon,United States,45.45479965,-122.55100250,1,W7LT,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,   ,2021-06-23
-41,27,146.96000,146.36000,127.3,127.3,Colton,Goat Mountain,Clackamas,Oregon,United States,45.13150024,-122.29699707,1,W7OTV,OPEN,On-air,No,No,No,No,0,917904,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,CARES second alternate repeater.,2023-02-01
-41,28,147.12000,147.72000,100.0,100.0,Timberline,,Clackamas,Oregon,United States,45.30300140,-121.74299622,1,K7RPT,OPEN,On-air,Yes,No,No,No,0,329379,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,CARES Primary repeater.,2022-11-18
-41,29,147.28000,147.88000,167.9,167.9,Clackamas,Mt Scott,Clackamas,Oregon,United States,45.45479965,-122.55100250,1,WB7QIW,OPEN,On-air,Yes,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,MC-2 Multnomah County ARES,2022-05-28
-41,33,440.25000,445.25000,127.3,,Colton,Goat Mountain,Clackamas,Oregon,United States,45.13150024,-122.29699707,1,W7OTV,OPEN,On-air,Yes,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,CARES third alternate repeater.,2021-06-23
-41,34,440.30000,445.30000,167.9,,Clackamas,Mt Scott,Clackamas,Oregon,United States,45.45489883,-122.55100250,1,KC7MZM,OPEN,On-air,No,No,No,No,0,,0,,No,Yes,1,311758,No,No,No,,No,,No,,,No,,,,,2022-03-13
-41,38,442.07500,447.07500,103.5,103.5,Oregon City,Boynton Standpipe Water Tower,Clackamas,Oregon,United States,45.35509872,-122.60700226,0,W7ZRS,OPEN,On-air,Yes,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-06-23
-41,42,443.47500,448.47500,167.9,167.9,Clackamas,Mt Scott,Clackamas,Oregon,United States,45.45479965,-122.55100250,1,WB7QIW,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-01-12
-41,45,444.22500,449.22500,100.0,100.0,Timberline,Magic Mile Chairlift,Clackamas,Oregon,United States,45.30300140,-121.74299622,1,K7RPT,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,59,146.80000,146.20000,107.2,107.2,Clackamas,Timberline,Clackamas,Oregon,United States,45.33323900,-121.71432100,1,KJ7IY,OPEN,On-air,No,No,No,No,0,82962,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-09-08
-41,78,440.70000,445.70000,77.0,77.0,Molalla,Molalla Fire District 73,Clackamas,Oregon,United States,45.14730072,-122.57700348,0,W7DTV,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-12-06
-41,92,443.70000,448.70000,103.5,103.5,Colton,Goat Mountain,Clackamas,Oregon,United States,45.13119888,-122.29699707,1,N7PIR,OPEN,On-air,No,No,No,No,0,132225,3420,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,93,443.87500,448.87500,103.5,103.5,Government Camp,,Clackamas,Oregon,United States,45.28749847,-121.78199768,1,N7PIR,OPEN,On-air,No,No,No,No,,132225,3420,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"5,070 feet ASL.",2021-06-23
-41,111,1291.00000,1271.00000,107.2,,Clackamas,,Clackamas,Oregon,United States,45.40760040,-122.56999969,0,KB7WUK,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,63 watts EIRP,2022-04-05
-41,113,53.35000,51.65000,107.2,107.2,Sandy,,Clackamas,Oregon,United States,45.39730072,-122.26100159,1,KJ7IY,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-04-05
-41,130,442.87500,447.87500,107.2,107.2,Sandy,,Clackamas,Oregon,United States,45.39730072,-122.26100159,0,KJ7IY,OPEN,On-air,Yes,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-12-06
-41,133,443.15000,448.15000,107.2,107.2,Clackamas,Mt Scott,Clackamas,Oregon,United States,45.45460129,-122.55100250,0,KJ7IY,OPEN,On-air,Yes,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-01-12
-41,254,444.45000,449.45000,131.8,,Canby,,Clackamas,Oregon,United States,45.26309967,-122.69100189,0,K7CFD,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"This repeater us not listed in the ORRC online database at: http://www.orrc.org/Coordinations/Published. Tried to add AC6SZ -- RICHARD V. MARTIN -- TRUSTEE as a Repeater Custodian, but AC6SZ must first obtain a Repeaterbook.com account before being added as a custodian. Please ask the AC6SZ to register for an account. There are currently no custodians for this repeater. ",2021-03-16
-41,281,442.92500,447.92500,107.2,,Colton,,Clackamas,Oregon,United States,45.17219925,-122.43699646,0,WB7DZG,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-12-06
-41,452,442.42500,447.42500,100.0,,Sandy,,Clackamas,Oregon,United States,45.40499878,-122.27500153,0,KE7AWR,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-02-23
-41,481,145.43000,144.83000,107.2,107.2,Colton,,Clackamas,Oregon,United States,45.17211920,-122.43748030,1,KJ7IY,OPEN,On-air,Yes,No,No,No,0,82962,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-01-16
-41,496,223.94000,222.34000,100.0,,Colton,Goat Mountain,Clackamas,Oregon,United States,45.13150024,-122.29699707,1,W7OTV,OPEN,Off-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-07-31
-41,498,224.46000,222.86000,107.2,,Estacada,,Clackamas,Oregon,United States,45.28969955,-122.33200073,0,KD7DEG,OPEN,Off-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-02-19
-41,555,441.40000,446.40000,88.5,88.5,Colton,Goat Mountain,Clackamas,Oregon,United States,45.13150024,-122.29699707,1,WB6EGS,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-06-23
-41,3091,29.68000,29.58000,162.2,162.2,Clackamas,Mount Scott,Clackamas,Oregon,United States,45.45460129,-122.55100250,1,KR7IS,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2019-12-14
-41,6786,443.85000,448.85000,107.2,,Estacada,,Clackamas,Oregon,United States,45.28771980,-122.33516380,0,WB7DZG,OPEN,Unknown,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-12-07
-41,6788,444.17500,449.17500,123.0,,West Linn,Stafford,Clackamas,Oregon,United States,45.36569977,-122.61199951,0,WA7BND,OPEN,Off-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-12-06
-41,11141,441.65000,446.65000,107.2,,West Linn,West Linn Ridge,Clackamas,Oregon,United States,45.36569977,-122.61199951,0,WA7DRO,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-12-06
-41,13885,147.18000,147.78000,103.5,103.5,Clackamas,"Mount Scott, Happy Valley",Clackamas,Oregon,United States,45.45309830,-122.54799652,0,W7LT,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,Yes,00,00,,"Per PARC website 26 April 2021: This repeater is located on Mt. Scott, OR; running a Yaesu System Fusion (YSF) repeater in Automatic Mode Select (AMS) mode to provide functionality to both FM analog (with a tone of 103.5) and digital users. Previously, this was a dedicated digital mode 1200 baud packet repeater. On 22 July 2020, this repeater was tested to verify both YSF Fusion and FM Analog operation. No YSF Fusion response was received at that time. This repeater's YSF capability needs to be confirmed by the Trustee.",2021-04-26
-41,15196,442.75000,447.75000,Restricted,Restricted,Colton,Goat Mtn,Clackamas,Oregon,United States,45.13150024,-122.29699707,0,KB7APU,OPEN,On-air,No,No,No,No,0,0,0,,No,Yes,1,314107,No,No,No,,No,,No,,,No,,,,,2021-06-23
-41,15201,442.98750,447.98750,Restricted,Restricted,Government Camp,,Clackamas,Oregon,United States,45.36700058,-121.99099731,0,KB7APU,OPEN,On-air,No,No,No,No,0,0,0,,No,Yes,1,314104,No,No,No,,No,,No,,,No,,,,,2021-06-23
-41,15792,52.97000,51.27000,107.2,107.2,Government Camp,Timberline Lodge,Clackamas,Oregon,United States,45.33119965,-121.71099854,0,WB7DZG,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2019-09-28
-41,15806,223.96000,222.36000,107.2,,Sandy,,Clackamas,Oregon,United States,45.39730072,-122.26100159,0,KJ7IY,OPEN,Off-air,Yes,Yes,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-02-19
-41,16800,444.30000,449.30000,82.5,82.5,Lake Oswego,,Clackamas,Oregon,United States,45.42070007,-122.67099762,0,WA7LO,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-04-05
-41,17251,441.32500,446.32500,,,Clackamas,Mt Scott,Clackamas,Oregon,United States,45.45472300,-122.55139200,1,KA7AGH,OPEN,On-air,Yes,Yes,No,No,0,0,0,,No,Yes,7,314116,No,No,No,,No,,No,,,No,,,,Connected to PNW Digital System. Visit PNWDigital.net for further info on supported TG.,2021-03-26
-41,18793,444.60000,449.60000,100.0,,Beavercreek,,Clackamas,Oregon,United States,45.22968800,-122.44240900,1,WA7ABU,OPEN,On-air,No,No,No,No,,0,0,,Yes,No,,,No,No,No,,No,,No,,,Yes,00,00,,Wires-X to be installed. No courtesy tone due to Yaesu defaults.,2020-10-10
-41,20134,440.63750,445.63750,,,Ripplebrook,,Clackamas,Oregon,United States,45.08250000,-122.04222000,0,KB7APU,OPEN,Off-air,No,No,No,No,0,0,0,,No,Yes,3,312233,No,No,No,,No,,No,,,No,,,,,2021-06-23
-41,20180,444.15000,449.15000,,,Government Camp,Mount Hood,Clackamas,Oregon,United States,45.34501100,-121.71177200,0,K7PN,OPEN,On-air,No,No,No,No,0,0,0,,No,Yes,1,311190,No,No,No,,No,,No,,,No,,,,Connected to PNW Digital System. Visit PNWDigital.net for further info on supported TG.,2021-09-06
-41,20374,224.30000,222.70000,100.0,100.0,Molalla,,Clackamas,Oregon,United States,45.10333300,-122.62666700,0,K7JCN,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-03-26
-41,20726,224.34000,224.74000,100.0,,Oregon City,,Clackamas,Oregon,United States,45.35560990,-122.60585300,0,K7JCN,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-10-05
-41,176,146.66000,146.06000,118.8,118.8,Astoria,Wickiup Mountain,Clatsop,Oregon,United States,46.10609818,-123.58499908,1,W7BU,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"March 12, 2020 The repeater was recently sold to the W7BU club.  Operations and usage of the repeater may be subject to change.",2021-06-23
-41,177,146.74000,146.14000,118.8,,Cannon Beach,Arch Cape,Clatsop,Oregon,United States,45.80220032,-123.96700287,1,W7BU,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-04-05
-41,178,146.76000,146.16000,118.8,,Astoria,Nicolai Mountain,Clatsop,Oregon,United States,46.08720016,-123.45800018,0,W7BU,OPEN,On-air,Yes,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-04-05
-41,183,444.50000,449.50000,118.8,,Astoria,Nicolai Mountain,Clatsop,Oregon,United States,46.08720016,-123.45800018,1,N7XAC,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-06-23
-41,184,444.77500,449.77500,118.8,,Astoria,Wickiup Mountain,Clatsop,Oregon,United States,46.10589981,-123.58599854,1,W7BU,OPEN,On-air,Yes,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-03-21
-41,3004,145.49000,144.89000,118.8,,Seaside,reservoir,Clatsop,Oregon,United States,45.95420074,-123.91899872,1,WA7VE,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-01-03
-41,5827,443.87500,448.87500,100.0,100.0,Seaside,,Clatsop,Oregon,United States,45.95399857,-123.91899872,1,N7PIR,OPEN,On-air,No,No,No,No,,,3430,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-09-14
-41,5829,147.00000,147.60000,118.8,,Seaside,,Clatsop,Oregon,United States,45.86420059,-123.55500031,1,WA7PIX,OPEN,Unknown,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-04-05
-41,6880,147.52000,147.52000,118.8,,Hammond,,Clatsop,Oregon,United States,46.19931230,-123.95205880,1,NA7Q,OPEN,On-air,No,No,No,No,54166,0,0,,No,No,,,No,No,No,,No,,No,,,No,,,,Open to all users.<br> Permanently linked to the Coastal Amateur Radio Network Hub 54189.,2022-11-28
-41,11325,146.72000,146.12000,114.8,114.8,Astoria,Wickiup Mountain,Clatsop,Oregon,United States,46.10589981,-123.58599854,0,K7RPT,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"Repeater is in testing mode.<br> Linked to <a href=http://www.repeaterbook.com/repeaters/details.php?state_id=41&ID=127>442.32500 (K7RPT) at Forest Grove, South Saddle Mountain, OR.</a> <br><br>",2021-06-23
-41,14641,442.50000,447.50000,118.8,118.8,Astoria,Wickiup Mtn,Clatsop,Oregon,United States,46.10589981,-123.58599854,0,W7BU,OPEN,On-air,Yes,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,Low activity repeater system. Receiver is currently experiencing signal loss. Users may have a difficult time accessing this repeater.,2021-06-23
-41,17427,444.85000,449.85000,118.8,,Astoria,,Clatsop,Oregon,United States,46.13859940,-123.84799957,1,W7BU,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-09-11
-41,17428,146.80000,146.20000,118.8,,Gearhart,,Clatsop,Oregon,United States,46.03150177,-123.89299774,1,W7BU,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-04-05
-41,17913,224.28000,222.68000,103.5,,Astoria,Nicolai Mountain,Clatsop,Oregon,United States,46.08710098,-123.45899963,0,,OPEN,Off-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,Linked System,2021-02-19
-41,18108,52.81000,51.11000,100.0,,Astoria,Nicolai Mountain,Clatsop,Oregon,United States,46.08710098,-123.45899963,0,,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-06-23
-41,19856,147.16000,147.76000,118.8,118.8,Knappa,,Clatsop,Oregon,United States,46.17139090,-123.57122100,0,NA7Q,OPEN,On-air,No,No,No,No,54094,0,0,,No,No,,,No,No,No,,No,,No,,,No,,,,Open to all users. Permanently linked to the Coastal Amateur Radio Network Hub 54189.,2022-09-21
-41,142,146.88000,146.28000,114.8,114.8,Deer Island,Meissner Lookout,Columbia,Oregon,United States,45.96030045,-122.99600220,0,N7EI,OPEN,On-air,Yes,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,Separate RX and TX antennas.,2022-12-06
-41,505,441.70000,446.70000,,,Rainier,Ranier Hill,Columbia,Oregon,United States,46.04959869,-122.91999817,1,N3EG,OPEN,On-air,No,No,No,No,,,,,No,Yes,1,315328,No,No,No,,No,,No,,,No,,,,,2022-04-05
-41,509,444.62500,449.62500,107.2,107.2,Warren,McNulty Water Tower,Columbia,Oregon,United States,45.83900070,-122.87799835,1,N7EI,OPEN,Unknown,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,20 watts.,2022-04-05
-41,6366,146.68000,146.08000,114.8,114.8,Warren,McNulty Water Tower,Columbia,Oregon,United States,45.83900070,-122.87799835,1,N7EI,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-06-23
-41,10611,224.66000,223.06000,114.8,114.8,Rainier,Rainier Hill,Columbia,Oregon,United States,46.08900070,-122.93599701,0,N7DEM,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-07-18
-41,16128,441.86250,446.86250,,,Scappoose,,Columbia,Oregon,United States,45.75429916,-122.87799835,0,AA7BG,OPEN,On-air,No,No,No,No,,,,,No,Yes,1,314111,No,No,No,,No,,No,,,No,,,,,2019-11-27
-41,16277,145.25000,144.65000,114.8,,Vernonia,Corey Hill,Columbia,Oregon,United States,45.86180115,-123.20600128,0,W7VER,OPEN,Unknown,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,Vernonia Emergency Radio Association V.E.R.A,2021-02-19
-41,17151,224.38000,222.78000,114.8,,Deer Island,,Columbia,Oregon,United States,45.93220139,-122.84500122,0,N7EI,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,No squelch tail.,2019-11-17
-41,149,145.19000,144.59000,146.2,,Myrtle Point,Bennett Butte,Coos,Oregon,United States,42.95869827,-124.27300262,1,W7OC,OPEN,Unknown,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-02-19
-41,151,146.61000,146.01000,110.9,110.9,Coquille,Beaver Hill,Coos,Oregon,United States,43.20500183,-124.30200195,1,K7CCH,OPEN,On-air,Yes,Yes,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-07-12
-41,152,146.92000,146.32000,136.5,91.5,Camas Valley,Kenyon Mountain,Coos,Oregon,United States,43.00149918,-123.77899933,1,AB7BS,OPEN,On-air,No,No,No,No,,521741,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"3,250 feet.",2020-09-25
-41,156,147.28000,147.88000,146.2,146.2,Coos Bay,Blossom Hill,Coos,Oregon,United States,43.35419846,-124.24199677,1,W7OC,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-04-05
-41,159,440.80000,445.80000,103.5,,Coos Bay,Blossom Hill,Coos,Oregon,United States,43.35419846,-124.24199677,1,WA7JAW,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"650 feet, 30 watts.",2021-02-19
-41,164,444.17500,449.17500,146.2,,Myrtle Point,Bennett Butte,Coos,Oregon,United States,43.06499863,-124.13800049,0,W7OC,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-08-25
-41,165,444.52500,449.52500,123.0,,Myrtle Point,Bennett Butte,Coos,Oregon,United States,42.95869827,-124.27300262,1,KD7IOP,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-12-06
-41,479,147.10000,147.70000,88.5,88.5,Coos Bay,,Coos,Oregon,United States,43.36809921,-124.21600342,0,W7OC,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-07-19
-41,13019,146.88000,146.28000,D023,,Coos Bay,Noah Butte,Coos,Oregon,United States,43.36650085,-124.21800232,0,AB7BS,OPEN,On-air,No,No,No,No,0,521741,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-09-21
-41,15807,441.72500,446.72500,131.8,,Coos Bay,,Coos,Oregon,United States,43.36650085,-124.21800232,0,W7OC,OPEN,Unknown,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-04-05
-41,18777,147.32000,147.92000,,,Coos Bay,,Coos,Oregon,United States,43.36650070,-124.21789030,0,K7REA,OPEN,On-air,No,No,No,No,0,0,0,64162,No,No,,,No,No,No,,No,,No,,,Yes,00,00,,"Use DG-ID TX01 for Wires-X access. This repeater is digital mode only, no FM analog voice. See web page on info linking to other repeaters (http://www.k7rea.com/).",2021-04-21
-41,240,147.38000,147.98000,162.2,,Prineville,Grizzly Mountain,Crook,Oregon,United States,44.43780136,-120.95500183,1,N7CCO,OPEN,On-air,Yes,No,Yes,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,10191,444.17500,449.17500,103.5,103.5,Prineville,Grizzly Mountain,Crook,Oregon,United States,44.43780136,-120.95500183,1,N7PIR,OPEN,On-air,No,No,No,No,0,132225,3420,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,15796,145.21000,144.61000,141.3,,Prineville,Round Mtn,Crook,Oregon,United States,44.39220047,-120.34700012,0,N7CCO,OPEN,On-air,Yes,Yes,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-05-09
-41,18784,441.25000,446.25000,,,Prineville,,Crook,Oregon,United States,44.29984850,-120.83446640,0,N7CCO,OPEN,Unknown,Yes,Yes,No,No,,0,0,,No,Yes,1,311455,No,No,No,,No,,No,,,No,,,,,2020-05-12
-41,187,145.21000,144.61000,88.5,,Langlois,Stone Butte,Curry,Oregon,United States,42.87189865,-124.43599701,1,KA7GNK,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,A separate tone of 100.0 is listed.,2021-01-17
-41,188,146.74000,146.14000,88.5,,Gold Beach,Grizzly Mountain,Curry,Oregon,United States,42.39749908,-124.36599731,1,K7SEG,OPEN,On-air,Yes,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-01-17
-41,190,146.96000,146.36000,88.5,,Brookings,Harbor Hill,Curry,Oregon,United States,42.05260086,-124.28399658,0,W7BKG,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"1200', 50 watts. ",2020-08-31
-41,192,147.25000,147.85000,88.5,,Brookings,Bosley Butte,Curry,Oregon,United States,42.20920181,-124.22599792,1,N7UBQ,OPEN,On-air,Yes,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-04-05
-41,500,440.72500,445.72500,114.8,,Port Orford,Cape Blanco,Curry,Oregon,United States,42.83729935,-124.56300354,1,KD7IOP,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"215 feet, 50 watts.",2021-01-17
-41,2812,146.84000,146.24000,88.5,,Brookings,Fire Station,Curry,Oregon,United States,42.12609863,-124.32099915,1,W7BKG,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-01-17
-41,6759,147.04000,147.64000,88.5,,Agness,,Curry,Oregon,United States,42.55649948,-124.06900024,0,WA7JAW,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-07-18
-41,20214,443.80000,448.80000,,,Brookings,,Curry,Oregon,United States,42.06830000,-124.27120000,0,K6JR,OPEN,On-air,No,No,No,No,0,0,0,,No,Yes,1,312550,No,No,No,,No,,No,,,No,,,,,2022-04-02
-41,175,443.05000,448.05000,162.2,,Bend,Jack Pine Ridge,Deschutes,Oregon,United States,44.05830002,-121.31400299,0,KB7LNR,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-04-05
-41,195,145.45000,144.85000,103.5,CSQ,Bend,Mount Bachelor,Deschutes,Oregon,United States,43.98139954,-121.68900299,1,W7DCO,OPEN,On-air,Yes,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"Per AI7NC, this repeater does not transmit a tone for tone squelch. ",2022-07-13
-41,197,145.49000,144.89000,162.2,162.2,Bend,Sand Shed,Deschutes,Oregon,United States,43.98240000,-121.57890000,1,W7HWY,OPEN,On-air,Yes,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"Elevation = 6,032 feet ASL.",2022-01-01
-41,198,146.70000,146.10000,162.2,,Millican,Pine Mountain,Deschutes,Oregon,United States,43.80289841,-120.91400146,1,W7JVO,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-01-17
-41,199,444.75000,449.75000,156.7,,Millican,Pine Mtn,Deschutes,Oregon,United States,43.80289841,-120.91400146,1,W7JVO,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-01-17
-41,201,146.90000,146.30000,123.0,,Sisters,Fivemile Butte,Deschutes,Oregon,United States,44.35219955,-121.69100189,1,W7DUX,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,There is no Repeater Record Custodian (RRC) assigned to this repeater. Please ask W7DUX -- DANNY J. TUCKER -- TRUSTEE to register with RepeaterBook.com so that he (or others of his choosing) can be assigned as such. ,2021-07-12
-41,202,146.94000,146.34000,162.2,,Bend,Long Butte,Deschutes,Oregon,United States,44.17369843,-121.27600098,1,W7JVO,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-01-17
-41,204,147.04000,147.64000,114.8,,Redmond,Cinder Butte,Deschutes,Oregon,United States,44.31740189,-121.17400360,1,K7RPT,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"3,604 feet ASL, 300 watts ERP.",2020-10-09
-41,209,442.12500,447.12500,D125,,Bend,Cline Butte,Deschutes,Oregon,United States,44.25279999,-121.30400085,1,AB7BS,OPEN,Off-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,Tone might also be 123.0. This repeater is not in the ORCC online database. Moved from UNKNOWN to OFF-AIR.,2021-06-24
-41,477,146.64000,146.04000,123.0,,Sunriver,Spring River Butte,Deschutes,Oregon,United States,43.85029984,-121.45800018,0,KA7QAV,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-05-22
-41,526,443.65000,448.65000,162.2,,Bend,,Deschutes,Oregon,United States,44.05830002,-121.31400299,0,KB7LNR,OPEN,Unknown,No,No,No,No,0,211222,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-01-17
-41,10074,145.13000,144.53000,D026,D026,Redmond,Cline Butte,Deschutes,Oregon,United States,44.27259827,-121.17400360,0,W7PRA,OPEN,On-air,No,No,No,No,0,521741,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-02-01
-41,10561,444.45000,449.45000,162.2,100.0,Redmond,Long Butte,Deschutes,Oregon,United States,44.17499924,-121.25399780,1,KC7DMF,OPEN,On-air,No,No,No,No,27038,,0,,Yes,Yes,1,3141290,No,No,No,,No,,No,,,No,,,,All talk groups are open/available.,2021-01-17
-41,11149,444.92500,449.92500,100.0,,La Pine,Finley Butte,Deschutes,Oregon,United States,43.65017000,-121.42954500,1,AA1JW,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-09-16
-41,15200,442.95000,447.95000,Restricted,Restricted,Redmond,Gray Butte,Deschutes,Oregon,United States,44.27259827,-121.17400360,0,KB7APU,OPEN,On-air,No,No,No,No,0,0,0,,No,Yes,1,314105,No,No,No,,No,,No,,,No,,,,,2021-06-23
-41,17050,442.55000,447.55000,162.2,,Bend,,Deschutes,Oregon,United States,44.05820084,-121.31500244,0,W7DCO,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,This repeater is not listed in the ORCC online database. ,2021-05-22
-41,19642,443.75000,448.75000,156.7,,Bend,Long Butte,Deschutes,Oregon,United States,43.80413340,-120.55420120,0,W7JVO,OPEN,On-air,No,No,No,No,,0,0,,Yes,No,,,No,No,No,,No,,No,,,Yes,,,,,2022-01-24
-41,157,147.38000,147.98000,146.2,146.2,Mapleton,Roman Nose,Douglas,Oregon,United States,43.91199875,-123.73899841,1,W7OC,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-10-18
-41,213,145.21000,144.61000,136.5,91.5,Glide,Chilcoot Mountain,Douglas,Oregon,United States,43.43230057,-122.73000336,1,AB7BS,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"This repeater is solar and link times out after 15 mins. Simply key up and the link will auto-connect. 15 mins after the last local key (signal) is herd, the link will auto shut down to save batteries.",2020-10-09
-41,215,145.43000,144.83000,88.5,,Glide,Scott Mountain,Douglas,Oregon,United States,43.37210083,-123.06400299,1,WA7BWT,OPEN,On-air,Yes,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-08-05
-41,217,146.90000,146.30000,100.0,,Roseburg,Lane Mountain,Douglas,Oregon,United States,43.19530106,-123.11900330,1,KC7TLY,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,219,147.12000,147.72000,100.0,100.0,Winston,,Douglas,Oregon,United States,43.12233830,-123.41257230,1,KC7UAV,OPEN,On-air,No,No,No,No,0,,0,83672,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-12-03
-41,221,147.24000,147.84000,136.5,136.5,Roseburg,Lane Mountain,Douglas,Oregon,United States,43.19530106,-123.11900330,1,WB7RKR,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,Permanently linked to the SWORA repeater system,2022-04-11
-41,223,224.10000,222.50000,114.8,,Glide,Scott Mountain,Douglas,Oregon,United States,43.37210083,-123.06400299,1,WB7RKR,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,There is no Repeater Record Custodian (RRC) assigned to this repeater. Please ask WB7RKR -- KEITH A. PETERSON -- TRUSTEE to registyer with RepeaterBool.com so that he (or others of his choosing) can be assigned as such. ,2021-06-24
-41,224,441.85000,446.85000,D125,D125,Roseburg,Mt Scott,Douglas,Oregon,United States,43.37200165,-123.06500244,1,AB7BS,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,480,147.18000,147.78000,146.2,,Reedsport,Winchester Hill,Douglas,Oregon,United States,43.65719986,-124.18599701,1,W7OC,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-04-05
-41,680,441.87500,446.87500,88.5,,Roseburg,,Douglas,Oregon,United States,43.21670151,-123.34100342,0,WB6MFV,OPEN,Unknown,Yes,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,This is a solar site repeater and power can be limited on no sun days. Please keep transmissions as short as possible.,2020-05-12
-41,2814,444.62500,449.62500,91.5,,Glide,Scott Mountain,Douglas,Oregon,United States,43.37210083,-123.06400299,1,WB7RKR,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,There is no Repeater Record Custodian (RRC) assigned to this repeater. Please ask WB7RKR -- KEITH A. PETERSON -- TRUSTEE to register with RepeaterBool.com so that he (or others of his choosing) can be assigned as such. ,2021-06-24
-41,3092,440.62500,445.62500,114.8,,Roseburg,Mount Nebo,Douglas,Oregon,United States,43.20619965,-123.36399841,1,WA7JAW,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"1,168 feet ASL.",2022-04-05
-41,10031,146.70000,146.10000,136.5,91.5,Roseburg,Scott Mountain,Douglas,Oregon,United States,43.30149841,-123.10099792,0,W7PRA,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-05-12
-41,11148,444.87500,449.87500,127.3,,Glide,,Douglas,Oregon,United States,43.30149841,-123.10099792,0,WB7RKR,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,There is no Repeater Record Custodian (RRC) assigned to this repeater. Please ask WB7RKR -- KEITH A. PETERSON -- TRUSTEE to register with RepeaterBool.com so that he (or others of his choosing) can be assigned as such. ,2021-06-24
-41,11533,147.14000,147.74000,136.5,91.5,Lakeside,Roman Nose Mtn,Douglas,Oregon,United States,43.91199875,-123.73899841,1,AB7BS,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-10-09
-41,11660,147.22000,147.82000,67.0,67.0,Diamond Lake,Cinnamon Butte,Douglas,Oregon,United States,43.24062200,-122.11011300,1,K7RBG,OPEN,On-air,Yes,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-06-28
-41,14280,444.40000,449.40000,,123.0,Reedsport,Winchester Hill,Douglas,Oregon,United States,43.70230103,-124.09700012,0,W7OC,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-08-10
-41,15429,444.90000,449.90000,D125,,Yoncalla,Harness Mtn,Douglas,Oregon,United States,43.52550125,-123.09200287,1,AB7BS,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"3,150 feet ASL.",2020-10-09
-41,18774,145.47000,144.87000,,,Tiller,,Douglas,Oregon,United States,42.92845410,-122.95116510,0,K7BRG,OPEN,Unknown,No,No,No,No,,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-05-12
-41,19705,449.25000,444.25000,,,Roseburg,,Douglas,Oregon,United States,43.21650500,-123.34173810,0,KG7YHY,OPEN,Unknown,No,No,No,No,,0,0,,No,Yes,2,314906,No,No,No,,No,,No,,,No,,,,,2021-01-31
-41,20029,441.87500,446.87500,162.2,,Roseburg,Whitetail Ridge Winery,Douglas,Oregon,United States,43.12220000,-123.41280000,1,N7TZ,OPEN,On-air,No,No,No,No,0,0,0,72122,Yes,No,,,No,No,No,,No,,No,,,No,,,,Whitetail Ridge UHF Repeater Wires-X #82122,2022-12-18
-41,21306,440.92500,445.92500,77.0,77.0,Winston,112 Weigh Station,Douglas,Oregon,United States,43.00336740,-123.35875000,0,KK7HEP,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,Yes,No,No,,No,,No,,,No,,,,,2022-12-18
-41,210,145.24000,144.64000,162.2,,John Day,Airport,Grant,Oregon,United States,44.40319824,-118.96199799,1,W7JVO,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"3,576 feet ASL.",2021-01-17
-41,211,146.64000,146.04000,,,Canyon City,Eagle Peak,Grant,Oregon,United States,44.37340164,-118.96499634,1,N7LZM,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"4,833 feet. Covers about 40% of Grant County - this is well monitored.",2021-01-17
-41,212,147.22000,147.82000,103.5,103.5,John Day,Fall Mountain,Grant,Oregon,United States,44.29370117,-119.04299927,1,N7LZM,OPEN,On-air,Yes,No,Yes,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,19070,145.43000,144.83000,136.5,,Prairie City,Sheep Mountain,Grant,Oregon,United States,44.25052100,-118.48316500,0,,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2023-01-01
-41,228,146.76000,146.16000,103.5,,Burns,Radar Hill,Harney,Oregon,United States,43.56480026,-119.15299988,1,KF7HPT,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2018-07-14
-41,229,147.30000,147.90000,162.2,,Burns,Sharps Ridge,Harney,Oregon,United States,43.68109894,-118.92299652,1,W7JVO,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"4,704 feet ASL.",2021-01-17
-41,18262,145.11000,144.51000,136.5,67.0,Burns,Steens Mountain,Harney,Oregon,United States,43.58629990,-119.05400085,0,AB7BS,OPEN,On-air,No,No,No,No,485630,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"10,000 feet asl. Solar site",2020-11-02
-41,232,145.15000,144.55000,94.8,,Hood River,Mount Defiance,Hood River,Oregon,United States,45.64250183,-121.72200012,1,WA7ROB,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"NW Emergency Radio System<br> 4,959'.",2022-04-05
-41,233,147.10000,147.70000,100.0,100.0,Hood River,Mount Defiance,Hood River,Oregon,United States,45.64849854,-121.72200012,1,KF7LN,OPEN,On-air,No,Yes,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"5,000'.",2021-01-22
-41,538,440.95000,445.95000,100.0,,Cascade Locks,,Hood River,Oregon,United States,45.66983920,-121.89063540,0,KF7LN,OPEN,On-air,No,No,No,No,0,,0,,No,No,,,No,No,No,,No,,No,,,Yes,00,00,0,,2022-04-05
-41,2782,927.16250,902.16250,151.4,151.4,Cascade Locks,Mt Defiance,Hood River,Oregon,United States,45.64849854,-121.72200012,1,KF7LN,OPEN,Unknown,No,No,No,No,0,97040,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"5,000' AMSLE.",2022-03-10
-41,12345,444.90000,449.90000,100.0,,Hood River,Middle Mountain,Hood River,Oregon,United States,45.70539856,-121.52100372,0,KA7HRC,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-07-18
-41,17229,440.60000,445.60000,100.0,100.0,Hood River,Columbia River Gorge,Hood River,Oregon,United States,45.64270020,-121.57599640,0,AF7YV,OPEN,On-air,No,No,No,No,0,,0,43296,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-04-05
-41,18736,443.32500,448.32500,,,Cascade Locks,Cascade Locks Hill,Hood River,Oregon,United States,45.66983920,-121.89063550,0,N7LF,OPEN,On-air,No,No,No,No,0,0,0,,No,Yes,1,311388,No,No,No,,No,,No,,,No,,,,Open use. Connected to PNW Digital System. Visit PNWDigital.net for further info on supported TG's and other important info.,2021-03-26
-41,21,442.30000,447.30000,D125,D125,Ashland,Mount Ashland,Jackson,Oregon,United States,42.08069992,-122.71700287,1,AB7BS,OPEN,On-air,Yes,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,168,147.06000,147.66000,CSQ,,Medford,,Jackson,Oregon,United States,42.32669830,-122.87400055,0,W9PCI,OPEN,On-air,No,No,No,No,0,,0,,No,No,,,No,No,No,,No,,No,,,Yes,00,00,,,2021-01-17
-41,308,146.62000,146.02000,123.0,,Ashland,,Jackson,Oregon,United States,42.19459915,-122.70899963,0,W9PCI,OPEN,On-air,Yes,No,No,No,0,3383,3383,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"1,305'",2021-01-17
-41,311,440.70000,445.70000,162.2,,Ashland,,Jackson,Oregon,United States,42.19469833,-122.70800018,0,WX7MFR,OPEN,Unknown,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-05-12
-41,312,440.82500,445.82500,136.5,,Central Point,,Jackson,Oregon,United States,42.37609863,-122.91500092,0,WA6RHK,OPEN,Unknown,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,Uplink tone may be DCS 125.,2021-01-17
-41,369,444.82500,449.82500,100.0,,Rogue River,Elk Mountain,Jackson,Oregon,United States,42.54010010,-123.14499664,0,AB7BS,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,436,147.16000,147.76000,136.5,91.5,Ashland,Soda Mtn,Jackson,Oregon,United States,42.06460190,-122.47899628,1,AB7BS,OPEN,On-air,No,No,No,No,,521741,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"6,280 feet ASL.",2020-09-25
-41,472,145.33000,144.73000,123.0,,Central Point,,Jackson,Oregon,United States,42.37595860,-122.91643070,0,W9PCI,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"2,665 feet.",2021-01-17
-41,491,147.10000,147.70000,136.5,,Central Point,Johns Peak,Jackson,Oregon,United States,42.35689926,-122.97799683,1,AK7SB,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,This repeater is not listed in the ORCC online database. As of 11 July 2021 this repeater (formerly KB7SKB) is owned by (and identifies as) AK7SB.,2021-07-11
-41,493,147.00000,147.60000,123.0,,Medford,Rogue Valley Manor,Jackson,Oregon,United States,42.32669830,-122.87400055,0,K7RVM,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-04-05
-41,494,147.02000,147.62000,100.0,,Medford,Downtown,Jackson,Oregon,United States,42.32649994,-122.87599945,0,K7RPT,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-02-09
-41,525,147.26000,147.86000,123.0,,Ashland,Mount Ashland,Jackson,Oregon,United States,42.08069992,-122.71700287,1,WX7MFR,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-08-05
-41,550,443.15000,448.15000,136.5,,Central Point,QTH,Jackson,Oregon,United States,42.21500015,-121.70800018,0,KL7VK,OPEN,Unknown,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"1,405 feet.",2021-01-17
-41,551,443.77500,448.77500,,,Medford,Baldy,Jackson,Oregon,United States,42.29859924,-122.75000000,1,KE7MVI,OPEN,On-air,No,No,No,No,,,,,No,No,,,Yes,No,No,,No,,No,,,No,,,,,2020-05-13
-41,661,145.41000,144.81000,100.0,,Central Point,,Jackson,Oregon,United States,42.35421800,-122.96097300,1,KB7QMV,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,The repeater reaches from north of Eagle Point south past Ashland and east up 140 toward Klamath Falls,2021-01-10
-41,673,444.10000,449.10000,123.0,,Central Point,,Jackson,Oregon,United States,42.37609863,-122.91500092,1,W9PCI,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"1,355 feet.",2021-01-17
-41,674,444.20000,449.20000,100.0,,Jacksonville,Roxy Ann QTH,Jackson,Oregon,United States,42.31359863,-122.96600342,0,W9PCI,OPEN,On-air,No,No,No,No,0,385956,3414,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"3,075 feet.",2022-09-17
-41,675,444.30000,449.30000,123.0,,Jacksonville,,Jackson,Oregon,United States,42.31359863,-122.96600342,0,W9PCI,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,Yes,00,00,0,"2,685 feet.",2021-01-17
-41,2807,147.38000,147.98000,131.8,,Central Point,,Jackson,Oregon,United States,42.37609863,-122.91500092,0,KL7VK,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"1,405 feet ASL.",2022-04-05
-41,3577,146.84000,146.24000,123.0,,Medford,Baldy,Jackson,Oregon,United States,42.29850006,-122.75099945,1,K7JAX,OPEN,On-air,Yes,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"3,797 feet ASL.",2022-04-05
-41,6736,146.72000,146.12000,131.8,,Ruch,,Jackson,Oregon,United States,42.24489975,-123.03500366,0,KL7VK,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-01-17
-41,11145,444.45000,449.45000,100.0,,Medford,Rogue Valley Manor,Jackson,Oregon,United States,42.32649994,-122.87599945,0,K7RVM,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-12-06
-41,11230,145.24000,144.64000,,,Medford,,Jackson,Oregon,United States,42.30770111,-122.83899689,1,KG7FOJ,OPEN,Off-air,No,No,No,No,0,,0,,No,No,,,Yes,No,No,,No,,No,,,No,,,,"As of 06/25/2021 03:04:48 UTC -- Unique Stations Heard In The Last 14 Days on KG7FOJ: ***NO STATIONS HEARD ! ***  There are no Repeater Record Custodians assigned to this repeater. Please ask WD6ESU -- ROBERT N. TANGEL -- TRUSTEE to register with RepeaterBook.com so that he (or others of his choosing) can be assigned as such. Confirmed that this repeater is listed in the ORCC online database. Accordingly, moved from UNKNOWN to ON-AIR. If you hear this repeater ON-AIR or know of a different status, please email KV4VT@RepeaterBook.com ASAP.",2021-06-24
-41,11231,444.65000,449.65000,,,Medford,,Jackson,Oregon,United States,42.30770111,-122.83899689,1,KG7FOJ,OPEN,On-air,No,No,No,No,,,,,No,No,,,Yes,No,No,,No,,No,,,No,,,,,2020-05-13
-41,11232,1293.12500,1313.12500,,,Medford,,Jackson,Oregon,United States,42.30770111,-122.83899689,1,KG7FOJ,OPEN,Off-air,No,No,No,No,0,,0,,No,No,,,Yes,No,No,,No,,No,,,No,,,,"As of 06/25/2021 03:00:04 UTC -- Unique Stations Heard In The Last 14 Days on KG7FOJ: ***NO STATIONS HEARD !*** If you hear this repeater ON-AIR or know of a different status, please email KV4VT@RepeaterBook.com ASAP.",2021-06-24
-41,12806,145.27000,144.67000,136.5,136.5,Rogue River,Elk Mtn,Jackson,Oregon,United States,42.43600082,-123.17199707,0,WA6HWW,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-02-19
-41,17153,1248.50000,1228.50000,,,Medford,,Jackson,Oregon,United States,42.32649994,-122.87599945,0,KG7FOJ,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"There are no Repeater Record Custodians assigned to this repeater. Please ask WD6ESU -- ROBERT N. TANGEL -- TRUSTEE to register with RepeaterBook.com so that he (or others of his choosing) can be assigned as such. Confirmed that this repeater is listed in the ORCC online database. Accordingly, moved from UNKNOWN to ON-AIR. If you hear this repeater ON-AIR or know of a different status, please email KV4VT@RepeaterBook.com ASAP.",2021-06-24
-41,18062,52.81000,51.11000,103.5,,Grants Pass,Elk Mountain,Jackson,Oregon,United States,42.03089905,-124.12300110,0,WD7RW,OPEN,On-air,No,No,No,No,0,,7366,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"Split site, receiver on Fielder and transmitter on Elk.",2022-04-05
-41,18573,444.25000,449.25000,103.5,103.5,Rogue River,Fielder Mtn,Jackson,Oregon,United States,42.44567490,-123.21672058,0,WD7FGX,OPEN,On-air,No,No,No,No,,,7366,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-03-10
-41,18782,440.22500,445.22500,131.8,,Medford,,Jackson,Oregon,United States,42.32651520,-122.87559490,0,K7RVM,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,Yes,00,00,,"There are no Repeater Record Custodians assigned to this repeater. Please ask N6WN -- DANIEL B. CURTIS -- TRUSTEE to register with RepeaterBook.com so that he (or others of his choosing) can be assigned as such. Confirmed that this repeater is listed in the ORCC online database.  If you hear this repeater ON-AIR or know of a different status, please email KV4VT@RepeaterBook.com ASAP. ",2021-06-24
-41,19080,440.72500,445.72500,D023,D023,Medford,Roxy Ann Peak,Jackson,Oregon,United States,42.35293200,-122.78685200,0,,OPEN,On-air,No,No,No,No,,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"3,511 feet.",2020-08-25
-41,19641,147.24000,147.84000,123.0,,Medford,,Jackson,Oregon,United States,43.80413340,-120.55420120,0,W9PCI,OPEN,Unknown,No,No,No,No,0,3414,3414,,Yes,No,,,No,No,No,,No,,No,,,No,,,,Currently bench testing.,2022-12-06
-41,19702,442.80000,447.80000,,,Medford,,Jackson,Oregon,United States,42.32651520,-122.87559490,0,KD7MPA,OPEN,Unknown,No,No,No,No,0,0,0,,No,Yes,1,311499,No,No,No,,No,,No,,,No,,,,,2021-01-31
-41,21166,145.00000,145.00000,D503,,Rogue River,,Jackson,Oregon,United States,42.43000000,-123.16000000,1,KL7XL,OPEN,On-air,No,No,No,No,54016,0,0,,No,No,,,No,No,No,,No,,No,,,No,,,,10 ft tower with 60 watts-o-power.,2022-12-31
-41,21206,439.00000,439.00000,D503,,Rogue River,,Jackson,Oregon,United States,42.43595400,-123.17199760,1,KL7XL,OPEN,On-air,No,No,No,No,54016,0,0,,No,No,,,No,No,No,,No,,No,,,No,,,,10 foot tower with 50 watts. ,2022-10-06
-41,423,147.18000,147.78000,162.2,,Mitchell,Stephenson Mountain,Jefferson,Oregon,United States,44.58240128,-120.45200348,1,W7JVO,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"6,312 feet ASL.",2021-01-17
-41,15786,442.22500,447.22500,114.8,,Madras,Eagle Butte,Jefferson,Oregon,United States,44.83960000,-121.23530000,1,K7RPT,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"3,800 feet ASL, 50 watts.",2020-10-09
-41,17783,444.42500,449.42500,,,Culver,,Jefferson,Oregon,United States,44.52569962,-121.21299744,0,KC7DMF,OPEN,On-air,No,No,No,No,,,,,No,Yes,1,0,No,No,No,,No,,No,,,No,,,,,2022-02-24
-41,242,145.49000,144.89000,136.5,,Cave Junction,Eight Dollar Mtn,Josephine,Oregon,United States,42.25780106,-123.66200256,1,WB6YQP,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-01-17
-41,244,146.94000,146.34000,D023,D023,Wolf Creek,King Mountain,Josephine,Oregon,United States,42.69169998,-123.23100281,1,W7PRA,OPEN,On-air,No,No,No,No,0,521741,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"5,283', 75 watts.",2021-02-19
-41,246,147.22000,147.82000,CSQ,,Grants Pass,,Josephine,Oregon,United States,42.40319824,-123.35800171,1,WA6OTP,OPEN,Unknown,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-04-05
-41,247,147.30000,147.90000,136.5,,Grants Pass,Gilbert Peak,Josephine,Oregon,United States,42.47159958,-123.30599976,1,K7LIX,OPEN,On-air,Yes,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-06-17
-41,248,147.34000,147.94000,136.5,,Wolf Creek,King Mountain,Josephine,Oregon,United States,42.69169998,-123.23100281,1,WB6YQP,OPEN,Unknown,Yes,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-01-17
-41,258,444.50000,449.50000,D125,D125,Wolf Creek,King Mountain,Josephine,Oregon,United States,42.69169998,-123.23100281,1,AB7BS,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,370,440.55000,445.55000,173.8,,Grants Pass,Onion Mountain,Josephine,Oregon,United States,42.45439911,-123.61900330,1,AB7BS,OPEN,Off-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"Though this is a solar site, enough power is available to keep this repeater linked full time.  This repeater is not listed in ORCC online database. Moved from UNKNOWN to OFF-AIR. ",2022-12-06
-41,8090,440.46250,445.46250,,,Grants Pass,Mt Fielder,Josephine,Oregon,United States,42.42422450,-123.19380240,0,KE7LKX,OPEN,On-air,No,No,No,No,0,,0,,No,No,,,Yes,No,No,,No,,No,,,No,,,,,2022-04-05
-41,8244,443.52500,448.52500,173.8,,Wolf Creek,King Mountain,Josephine,Oregon,United States,42.69169998,-123.23100281,1,W6PRN,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2019-07-28
-41,17726,52.81000,52.31000,103.5,103.5,Grants Pass,,Josephine,Oregon,United States,42.41460037,-123.33899689,1,WD7FGX,OPEN,On-air,No,No,No,No,,,7366,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-03-10
-41,17971,444.67500,449.67500,100.0,,Grants Pass,Gilbert Peak,Josephine,Oregon,United States,42.48880005,-123.30699921,0,W6PRN,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2019-07-28
-41,20194,449.97500,449.97500,100.0,,Grants Pass,,Josephine,Oregon,United States,42.41458700,-123.33907500,0,W2HR,OPEN,On-air,No,No,No,No,47871,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,Full time connected to the GRANTS PASS HUB FM only.,2022-10-16
-41,169,440.67500,445.67500,136.5,,Keno,Chase Mountain,Klamath,Oregon,United States,42.09450150,-121.99400330,1,WA6RHK,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,Links to the west via <a href=details.php?ID=488&state_id=41>Soda Mtn</a>.,2021-05-29
-41,196,145.47000,144.87000,123.0,,Chemult,Walker Mountain,Klamath,Oregon,United States,43.26119995,-121.74600220,0,AA1JW,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"Antenna elevation is 7,100 feet ASL. This repeater is now listed in the ORCC online database as AA1JW -- JAMES A. WILLIAMS -- TRUSTEE. Trustee has no email address posted in QRZ with which to help validate this listing. ",2022-10-24
-41,267,146.61000,146.01000,118.8,118.8,Klamath Falls,Hogback Mtn,Klamath,Oregon,United States,42.24269867,-121.70600128,1,W7VW,OPEN,On-air,Yes,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-02-19
-41,270,146.85000,146.25000,118.8,118.8,Klamath Falls,Hamaker Mountain,Klamath,Oregon,United States,42.06840134,-121.97299957,1,W7VW,OPEN,On-air,Yes,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-05-12
-41,272,443.90000,448.90000,118.8,,Klamath Falls,Hogsback Mtn,Klamath,Oregon,United States,42.24269867,-121.70600128,1,W7VW,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-12-06
-41,273,443.20000,448.20000,100.0,,Keno,Hamaker Mountain,Klamath,Oregon,United States,42.06850052,-121.97299957,1,K6PRN,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2019-06-23
-41,275,147.20000,147.80000,136.5,91.5,Klamath Falls,Chase Mountain,Klamath,Oregon,United States,42.09469986,-121.99400330,1,AB7BS,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-10-09
-41,482,147.18000,147.78000,100.0,,Keno,Hamaker Mountain,Klamath,Oregon,United States,42.06850052,-121.97299957,1,,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"5,918 feet.",2020-05-12
-41,11142,442.52500,447.52500,118.8,,Keno,,Klamath,Oregon,United States,42.12649918,-121.93000031,0,KD7TNG,OPEN,On-air,Yes,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-12-06
-41,17133,444.95000,449.95000,136.5,82.5,Chiloquin,Train Mtn,Klamath,Oregon,United States,42.55680084,-121.88600159,0,K7LNK,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-11-25
-41,19135,147.14000,147.74000,141.3,91.5,Chemult,Walker Mtn,Klamath,Oregon,United States,43.67039950,-121.50363600,0,AB7BS,OPEN,On-air,No,No,No,No,,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-10-09
-41,206,147.20000,147.80000,162.2,,Hampton,Glass Butte,Lake,Oregon,United States,43.80410004,-120.55400085,0,W7JVO,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"6,312 feet ASL.",2021-01-17
-41,295,145.31000,144.71000,173.8,,Lakeview,Drake Peak,Lake,Oregon,United States,42.30039978,-120.12300110,1,KE7QP,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"8,222 feet. We have ran out of propane fuel that helps when the solar system has no sun. This site is unlinked until we get some sunshine in the coming months. ",2020-10-09
-41,296,146.80000,146.20000,173.8,,Summer Lake,Dead Indian Mountain,Lake,Oregon,United States,42.98339844,-120.82800293,1,KE7QP,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"7,022 feet ASL",2022-04-05
-41,297,147.34000,147.94000,173.8,,Lakeview,Grizzly Peak,Lake,Oregon,United States,42.25270081,-120.63899994,1,KE7QP,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,3796,145.15000,144.55000,173.8,,Fort Rock,Washtina Butte,Lake,Oregon,United States,43.33915000,-121.27118000,1,AA1JW,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-10-11
-41,11,53.03000,51.33000,100.0,,Monroe,Prairie Peak,Lane,Oregon,United States,44.27700043,-123.60800171,1,W7ARD,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,12,146.68000,146.08000,100.0,100.0,Horton,Prairie Mtn,Lane,Oregon,United States,44.27957000,-123.59071200,1,W7EUG,OPEN,On-air,Yes,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,13,146.72000,146.12000,100.0,100.0,Junction City,Prairie Peak,Lane,Oregon,United States,44.28002800,-123.58297100,1,W7PXL,OPEN,On-air,No,No,No,No,0,538022,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"Access to the Echolink system is granted only to members of the Valley Radio Club, Eugene OR.",2023-01-11
-41,55,441.62500,446.62500,100.0,,Sisters,Hoodoo Butte,Lane,Oregon,United States,44.40190125,-121.88300323,1,W7PRA,OPEN,On-air,No,No,No,No,0,521741,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,300,53.07000,51.37000,100.0,,Oakridge,Wolf Mountain,Lane,Oregon,United States,43.61619949,-122.23000336,1,W7ARD,OPEN,Unknown,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-01-17
-41,305,145.37000,144.77000,100.0,100.0,Blue River,Indian Ridge,Lane,Oregon,United States,44.00529861,-122.25599670,1,W7EUG,OPEN,On-air,Yes,Yes,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-03-22
-41,309,146.66000,146.06000,100.0,,Cottage Grove,Harness Mountain,Lane,Oregon,United States,43.52550125,-123.09200287,1,W7ZQE,OPEN,On-air,Yes,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-04-05
-41,310,443.02500,448.02500,156.7,,Cottage Grove,,Lane,Oregon,United States,43.79779816,-123.05799866,0,K7SLA,OPEN,Unknown,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-01-17
-41,314,146.74000,146.14000,100.0,,Springfield,Willamette Heights Park,Lane,Oregon,United States,44.03979874,-123.01799774,1,WA7FQD,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-04-05
-41,315,146.76000,146.16000,123.0,,Cottage Grove,Bear Mountain,Lane,Oregon,United States,43.84260178,-122.89199829,1,W7NK,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"3,680",2022-05-06
-41,316,146.80000,146.20000,100.0,100.0,Florence,Herman Peak,Lane,Oregon,United States,44.12419891,-124.01300049,1,W7FLO,OPEN,On-air,Yes,Yes,No,No,,612184,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-08-13
-41,317,146.88000,146.28000,100.0,100.0,Eugene,Blanton Heights,Lane,Oregon,United States,44.00260162,-123.11299896,1,K7TBL,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"1,270 feet ASL.",2022-04-05
-41,318,146.98000,146.38000,88.5,,Oakridge,Wolf Mountain,Lane,Oregon,United States,43.61669922,-122.23000336,1,N7NPA,OPEN,On-air,Yes,Yes,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,Used as an ARES/RACES tactical channel.,2022-12-14
-41,319,147.08000,147.68000,100.0,91.5,Eugene,Coburg Ridge,Lane,Oregon,United States,44.13660049,-123.01499939,0,W7CQZ,OPEN,On-air,No,No,No,No,,521741,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-10-09
-41,321,147.26000,147.86000,100.0,100.0,Eugene,Blanton Heights,Lane,Oregon,United States,44.00260162,-123.11299896,1,W7NK,OPEN,On-air,Yes,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"1,270'",2021-02-24
-41,322,147.36000,147.96000,123.0,123.0,Eugene,Blanton Heights,Lane,Oregon,United States,44.00260162,-123.11299896,1,W7NK,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"1,270 feet ASL.",2022-04-05
-41,327,441.12500,446.12500,141.3,141.3,Coburg,Coburg Ridge,Lane,Oregon,United States,44.11510086,-123.00099945,1,K7QT,OPEN,Off-air,No,No,No,No,,119178,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-04-08
-41,329,441.67500,446.67500,D023,D023,Oakridge,Wolf Mountain,Lane,Oregon,United States,43.61619949,-122.23000336,1,W7PRA,OPEN,On-air,No,No,No,No,0,521741,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-11-09
-41,331,442.12500,447.12500,D125,D125,Eugene,Coburg Ridge,Lane,Oregon,United States,44.13660049,-123.01499939,1,K7THO,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,333,442.57500,447.57500,D125,D125,Florence,Herman Peak,Lane,Oregon,United States,44.12419891,-124.01300049,1,W7FLO,OPEN,On-air,Yes,Yes,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,Yes,00,00,Open,Not connected to Wires-X.,2020-04-23
-41,335,443.50000,448.50000,103.5,103.5,Horton,Prairie Mountain,Lane,Oregon,United States,44.27999878,-123.58300018,1,W7NK,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"3,360 feet ASL.",2020-10-09
-41,336,443.80000,448.82500,100.0,,Eugene,Blanton Heights,Lane,Oregon,United States,44.00149918,-123.11399841,1,K7RPT,OPEN,Off-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-04-08
-41,352,145.13000,144.53000,D023,D023,Junction City,Prairie Peak,Lane,Oregon,United States,44.29100037,-123.54100037,1,AB7BS,OPEN,On-air,Yes,No,No,No,,521741,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"3,510 feet ASL.",2020-10-09
-41,438,145.17000,144.57000,123.0,123.0,Eugene,Buck Mountain,Lane,Oregon,United States,44.19789886,-122.98600006,1,W7NK,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"3,130 feet elevation",2021-04-13
-41,471,441.32500,446.32500,D023,D023,Eugene,Coburg Ridge,Lane,Oregon,United States,44.11569977,-123.00000000,1,K7UND,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-03-22
-41,485,145.23000,144.63000,110.9,110.9,Cottage Grove,Fairview Peak,Lane,Oregon,United States,43.58570099,-122.65299988,1,W7SLA,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-09-06
-41,486,145.31000,144.71000,100.0,100.0,Walton,Walker Point,Lane,Oregon,United States,44.06610107,-123.62799835,1,W7SLA,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"2,325 feet.",2021-10-16
-41,528,442.80000,447.80000,77.0,77.0,Eugene,Blanton Heights,Lane,Oregon,United States,44.00260162,-123.11299896,1,W7DTV,OPEN,Off-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"1,270 feet elevation",2022-04-08
-41,669,442.90000,447.90000,110.9,110.9,Eugene,Blanton Heights,Lane,Oregon,United States,44.00260162,-123.11299896,1,W7NK,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"Standalone repeater. 1,270'.",2022-04-08
-41,681,145.45000,144.85000,123.0,123.0,Eugene,Blanton Heights,Lane,Oregon,United States,44.00260162,-123.11299896,1,W7ARD,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,3088,147.34000,147.94000,D023,D023,Blue River,Mount Hagan,Lane,Oregon,United States,44.13890076,-122.41100311,1,W7PRA,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-04-08
-41,3713,443.05000,448.05000,100.0,,Walton,Walker Point,Lane,Oregon,United States,44.06650162,-123.62899780,1,W7ZQD,OPEN,Off-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,PL could be 162.2.,2022-12-06
-41,6369,224.70000,223.10000,100.0,100.0,Coburg,Buck Mountain,Lane,Oregon,United States,44.19765000,-122.98650000,1,W7EXH,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"3,150 feet.",2020-12-19
-41,6780,443.10000,448.10000,100.0,100.0,Blue River,Mount Hagan,Lane,Oregon,United States,44.13890076,-122.41100311,1,K7SLA,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-02-19
-41,8243,444.35000,449.35000,173.8,,Alsea,Prairie Mountain,Lane,Oregon,United States,44.27999878,-123.58100128,1,W6PRN,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2023-02-13
-41,11144,443.27500,448.27500,100.0,,Eugene,,Lane,Oregon,United States,44.05210114,-123.08699799,0,W7EXH,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-09-29
-41,15421,145.39000,144.79000,D025,D025,Cottage Grove,Bear Mtn,Lane,Oregon,United States,43.84299850,-122.89199829,0,AB7BS,OPEN,On-air,No,No,No,No,0,521741,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"3,699'.",2020-10-09
-41,15427,444.80000,449.80000,D125,,Blue River,Mt Hagan,Lane,Oregon,United States,44.16159821,-122.33599854,0,AB7BS,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-10-09
-41,15428,444.92500,449.92500,D125,,Walton,Walker Point,Lane,Oregon,United States,44.10290146,-123.59600067,0,K7LNK,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,15803,147.14000,147.74000,136.5,91.5,Mapleton,Roman Nose Mountain,Lane,Oregon,United States,43.91189957,-123.73899841,1,AB7BS,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-05-12
-41,15811,443.57500,448.57500,D125,D125,Junction City,Prairie Mountain,Lane,Oregon,United States,44.27999878,-123.58300018,1,AB7BS,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,16997,441.10000,446.10000,D125,D125,Florence,Glenada Hill,Lane,Oregon,United States,43.95579910,-124.07499695,0,W7FLO,OPEN,On-air,No,No,No,No,0,,0,30225,No,No,,,No,No,No,,No,,No,,,Yes,70,00,,,2020-04-23
-41,17131,440.10000,445.10000,110.9,,Creswell,,Lane,Oregon,United States,43.91790009,-123.02500153,0,N7NPA,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-03-23
-41,17134,444.55000,449.55000,100.0,91.5,Cottage Grove,Bear Mtn,Lane,Oregon,United States,43.98139954,-123.00800323,0,K7LNK,OPEN,Unknown,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-10-09
-41,17136,440.80000,445.80000,103.5,100.0,Blue River,Mt Hagan,Lane,Oregon,United States,44.14229965,-122.41200256,0,,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-10-09
-41,18574,442.42500,447.42500,67.0,,Eugene,,Lane,Oregon,United States,44.00260162,-123.11329651,0,W7OEC,OPEN,On-air,No,No,No,No,0,,0,,Yes,Yes,1,311427,Yes,No,No,,No,,No,,,Yes,00,00,,"Please be sure to disconnect from reflectors and talkgroups when you are done using them. Monitoring reflectors and talkgroups occupy the repeater, and lock it into one mode, preventing other modes from being activated by other users. Please be courteous.",2022-07-05
-41,19302,442.70000,447.70000,123.0,,Eugene,,Lane,Oregon,United States,43.98772300,-123.06566400,0,K7REA,OPEN,On-air,No,No,No,No,0,0,0,80142,No,No,,,No,No,No,,No,,No,,,Yes,00,00,,"Use DG-ID TX01 for Wires-X access. This repeater is digital only, no FM analog voice. See web page on info linking to other repeaters (http://www.k7rea.com/).",2021-04-21
-41,19451,444.45000,449.45000,100.0,100.0,Eugene,,Lane,Oregon,United States,44.10770000,-123.14920000,0,KC7RJK,OPEN,On-air,No,No,No,No,,0,3543,,No,No,,,No,No,No,,No,,No,,,No,,,,"*Pause, pause first to see if others are using the machine or links. Then ID and make your call or link.<be> *Use DTMF command *70 to see if the repeater is already linked to a node or reflector.<br> *DO identify before sending DTMF command tones.<br> ",2021-09-06
-41,19472,444.42500,449.42500,,,Eugene,Santa Clara,Lane,Oregon,United States,44.10770000,-123.14920000,0,KC7RJK,OPEN,On-air,No,No,No,No,0,0,0,,No,Yes,1,314117,No,No,No,,No,,No,,,No,,,,,2021-09-06
-41,19650,145.55000,145.55000,,,Eugene,,Lane,Oregon,United States,44.03173840,-123.10594360,1,K7EZR,OPEN,On-air,No,No,No,No,,0,0,55490,No,No,,,No,No,No,,No,,No,,,No,,,,,2022-12-16
-41,20395,145.15000,144.55000,146.2,146.2,Cottage Grove,Bear Mountain,Lane,Oregon,United States,43.84279500,-122.89175900,0,W7OC,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-10-19
-41,21259,441.22500,446.22500,127.3,127.3,Blue River,North Deathball Mt.,Lane,Oregon,United States,44.13487500,-122.27627600,0,AI7NC,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-12-17
-41,342,145.37000,144.77000,167.9,,Newport,Cape Foulweather,Lincoln,Oregon,United States,44.77230072,-124.07599640,1,W7VTW,OPEN,On-air,No,Yes,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,Telemetry Status: <img src=http://www.ocrg.org/video_feed/wa7zvy-4/alarm_status_wa7zvy-4.png width=100 height=29 align=top>,2021-08-03
-41,344,147.00000,147.60000,136.5,,Waldport,Table Mountain,Lincoln,Oregon,United States,44.46920013,-123.84200287,1,W7VTW,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"2,800'.",2020-08-05
-41,345,147.04000,147.64000,100.0,,Lincoln City,,Lincoln,Oregon,United States,44.95830154,-124.01699829,0,W7VTW,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,85 feet. ,2022-04-05
-41,347,147.30000,147.90000,156.7,156.7,Newport,Otter Crest,Lincoln,Oregon,United States,44.76119995,-124.06500244,0,W7VTW,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,Yes,00,00,Open,,2022-04-05
-41,350,444.47500,449.47500,103.5,,Waldport,Table Mountain,Lincoln,Oregon,United States,44.46920013,-123.84200287,1,W7VTW,OPEN,Off-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-09-25
-41,351,444.75000,449.75000,118.8,,Newport,Otter Crest,Lincoln,Oregon,United States,44.76119995,-124.06500244,1,W7GC,OPEN,Off-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,Telemetry Status: <img src=http://www.ocrg.org/video_feed/wa7zvy-4/alarm_status_wa7zvy-4.png width=100 height=29 align=top>,2020-09-25
-41,13018,145.39000,144.79000,D023,D023,Newport,Otter Crest,Lincoln,Oregon,United States,44.63679886,-124.05300140,0,W7PRA,OPEN,Off-air,No,No,No,No,0,521741,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-09-24
-41,21340,147.06000,147.66000,156.7,CSQ,Yachats,Cape Perpetua,Lincoln,Oregon,United States,44.29359700,-124.08066700,0,N7HQR,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-12-18
-41,353,146.61000,146.01000,167.9,,Scio,Rodgers Mountain,Linn,Oregon,United States,44.68330002,-122.77899933,1,KA7ENW,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-04-05
-41,355,147.20000,147.80000,167.9,167.9,Sweet Home,Marks Ridge,Linn,Oregon,United States,44.44139862,-122.73799896,1,K7ENW,OPEN,On-air,Yes,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2019-01-08
-41,357,444.97500,449.97500,100.0,,Albany,,Linn,Oregon,United States,44.61529922,-123.15799713,1,KD6VLR,OPEN,On-air,No,No,No,No,,75954,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,220 feet ASL.,2020-10-09
-41,541,442.85000,447.85000,167.9,,Scio,Rodgers Mountain,Linn,Oregon,United States,44.68330002,-122.77899933,1,KA7ENW,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"1,124 feet ASL.",2022-04-05
-41,5910,147.06000,147.66000,100.0,,Lyons,McCully Mountain,Linn,Oregon,United States,44.75730133,-122.62400055,0,W1ARK,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"Repeater elevation is 1,130 feet ASL.",2021-09-12
-41,6368,440.60000,445.60000,103.5,103.5,Lyons,McCulley Mountain,Linn,Oregon,United States,44.75730133,-122.62400055,1,KG7MKW,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-09-12
-41,10032,444.82500,449.82500,D023,D023,Harrisburg,Buck Mountain,Linn,Oregon,United States,44.27399826,-123.17099762,0,W7PRA,OPEN,On-air,No,No,No,No,,521741,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-10-09
-41,13261,147.26000,147.86000,D026,D026,Brownsville,Scott Mountain,Linn,Oregon,United States,44.39870071,-122.86399841,0,W7NK,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"2,130'.",2021-02-24
-41,15216,52.91000,51.21000,100.0,100.0,Sweet Home,Marks Ridge,Linn,Oregon,United States,44.39759827,-122.73600006,0,KG7BZ,OPEN,On-air,Yes,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-01-15
-41,15217,443.12500,448.12500,77.0,77.0,Sweet Home,Marks Ridge,Linn,Oregon,United States,44.39759827,-122.73600006,0,KG7BZ,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-01-15
-41,15451,224.00000,222.40000,100.0,100.0,Brownsville,Washburn Heights,Linn,Oregon,United States,44.43840027,-122.98400116,1,K7VFO,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"1,280 feet.",2021-06-09
-41,17150,147.30000,147.90000,77.0,,Brownsville,,Linn,Oregon,United States,44.39350128,-122.98500061,0,W7WZA,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,As Seen on Tiktok!!! https://www.tiktok.com/@trailertravis,2021-01-27
-41,18789,443.25000,448.25000,,,Sweet Home,,Linn,Oregon,United States,44.39762470,-122.73619580,0,W7NK,OPEN,Unknown,No,No,No,No,,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-05-13
-41,10,444.15000,449.15000,100.0,,Vale,Malheur Butte,Malhuer,Oregon,United States,44.00579834,-117.05000305,1,K7OJI,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,360,147.10000,147.70000,100.0,,Ontario,Malheur Butte,Malhuer,Oregon,United States,44.01110077,-117.08399963,1,K7OJI,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"2,201 feet. ",2021-09-19
-41,549,443.15000,448.15000,100.0,,Ontario,,Malhuer,Oregon,United States,44.02389908,-116.96700287,1,K7RHB,OPEN,On-air,No,No,No,No,0,224189,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,Incoming EchoLink connections restricted.,2022-12-06
-41,139,441.37500,446.37500,123.0,,Salem,,Marion,Oregon,United States,44.94309998,-123.03399658,0,AB7F,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,365,145.29000,144.69000,,,Salem,,Marion,Oregon,United States,44.94879913,-122.93299866,1,WA7ABU,OPEN,On-air,Yes,No,No,No,,592473,7638,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-10-10
-41,367,145.35000,144.75000,CSQ,CSQ,Salem,Popcorn Hill,Marion,Oregon,United States,44.94309998,-123.03399658,0,K7LWV,OPEN,On-air,No,No,No,No,0,0,0,,No,Yes,1,312893,No,No,No,,No,,No,,,No,,,,,2022-02-07
-41,372,441.27500,446.27500,,,Salem,Prospect Hill,Marion,Oregon,United States,44.85459900,-123.12200165,1,W7SRA,OPEN,On-air,No,No,No,No,0,0,0,,No,Yes,1,311450,No,No,No,,No,,No,,,Yes,00,00,Open,,2022-11-18
-41,375,443.72500,448.72500,186.2,186.2,Salem,Prospect Hill,Marion,Oregon,United States,44.85449982,-123.12200165,1,W7SRA,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,376,444.25000,449.25000,100.0,100.0,Silverton,Silver Falls,Marion,Oregon,United States,44.95080185,-122.68699646,1,W7SAA,OPEN,On-air,No,No,No,No,,,3292,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-12-06
-41,377,444.95000,449.95000,100.0,,Salem,Silver Creek Falls,Marion,Oregon,United States,45.00529861,-122.78199768,0,WA7ABU,OPEN,On-air,Yes,No,No,No,,592473,7638,11977,Yes,No,,,No,No,No,,No,,No,,,Yes,00,00,,MCARES emergency repeater.,2022-12-06
-41,382,146.86000,146.26000,186.2,,Salem,Prospect Hill,Marion,Oregon,United States,44.85459900,-123.12200165,1,W7SRA,OPEN,On-air,Yes,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-02-21
-41,427,145.49000,144.89000,136.5,91.5,Salem,Prospect Hill,Marion,Oregon,United States,44.84730148,-123.11100006,1,AB7BS,OPEN,On-air,No,No,No,No,0,521741,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-07-09
-41,447,441.70000,446.70000,186.2,,Salem,Popcorn Hill,Marion,Oregon,United States,44.94290161,-123.03500366,0,K7UN,OPEN,Unknown,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-12-06
-41,503,224.16000,222.56000,100.0,,Silverton,Silver Falls,Marion,Oregon,United States,44.85120010,-122.64600372,0,W7BJH,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-06-13
-41,670,443.17500,448.17500,88.5,88.5,Salem,CCC,Marion,Oregon,United States,44.94309998,-123.03399658,0,AD7ET,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-09-21
-41,6019,145.19000,144.59000,100.0,,Gates,,Marion,Oregon,United States,45.00299835,-122.78199768,1,WA7ABU,OPEN,On-air,Yes,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,8240,441.17500,446.17500,77.0,77.0,Salem,Prospect Hill,Marion,Oregon,United States,44.84700012,-123.11100006,1,W7DTV,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-04-05
-41,11139,440.27500,445.27500,107.2,107.2,Salem,,Marion,Oregon,United States,44.94290161,-123.03500366,0,AC7RF,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-12-06
-41,11753,147.34000,147.94000,77.0,,Silverton,Silver Falls,Marion,Oregon,United States,44.89989853,-122.64399719,0,W7SAA,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-08-01
-41,13350,440.72500,445.72500,,,Salem,,Marion,Oregon,United States,44.93460083,-122.97299957,1,KB7PPM,OPEN,On-air,No,No,No,No,,,,40143,No,No,,,No,No,No,,No,,No,,,Yes,00,00,,,2022-03-05
-41,18780,440.05000,445.05000,100.0,,Salem,,Marion,Oregon,United States,44.94289750,-123.03509630,0,K7RTL,OPEN,On-air,No,No,No,No,,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-09-21
-41,18783,440.86250,445.86250,,,Salem,,Marion,Oregon,United States,44.94289750,-123.03509630,0,KB7PPM,OPEN,Off-air,No,No,No,No,0,0,0,,No,No,,,Yes,No,No,,No,,No,,,Yes,00,00,,Per Trustee: XLX 289 - This repeater will be ON-AIR for approximately one(1) month (from 06 September 2021 to 06 October 2021). It will be bridged to YSF 32398.,2021-09-06
-41,19700,442.97500,447.97500,,,Mill City,House Mountain,Marion,Oregon,United States,44.75583330,-122.46944440,0,KB7APU,OPEN,On-air,No,No,No,No,0,0,0,,No,Yes,1,310151,No,No,No,,No,,No,,,No,,,,,2021-01-31
-41,378,146.62000,146.02000,88.5,,Heppner,Black Mtn,Morrow,Oregon,United States,45.21319962,-119.29499817,1,W7URG,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,Limit talk time in winter months due to solar power.,2021-02-19
-41,379,146.78000,146.18000,67.0,,Heppner,Black Mountain,Morrow,Oregon,United States,45.21319962,-119.29499817,1,KC7SOY,OPEN,On-air,Yes,Yes,Yes,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,12904,147.16000,147.76000,,,Boardman,Coalfire plant,Morrow,Oregon,United States,45.83990097,-119.70099640,0,AI7HO,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-04-22
-41,14694,145.23000,144.63000,67.0,CSQ,Heppner,Black Mountain,Morrow,Oregon,United States,45.21319962,-119.29499810,1,KC7SOY,OPEN,On-air,Yes,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,Primarily used for packet traffic.,2022-03-20
-41,18138,444.85000,449.85000,118.8,118.8,Heppner,,Morrow,Oregon,United States,45.35319901,-119.55799866,1,WB7ILL,OPEN,Off-air,No,No,No,No,0,,0,40289,Yes,No,,,No,No,No,,No,,No,,,Yes,00,00,,,2022-12-06
-41,20362,145.37000,144.77000,D073,D073,Heppner,,Morrow,Oregon,United States,45.21304588,-119.29673700,1,W7NEO,OPEN,On-air,No,No,No,No,0,0,0,40289,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-10-18
-41,52,145.23000,144.63000,CSQ,123.0,Portland,Council Crest,Multnomah,Oregon,United States,45.49829865,-122.70800018,1,K7LJ,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-27
-41,57,145.39000,144.79000,100.0,100.0,Portland,Mt Tabor,Multnomah,Oregon,United States,45.51219940,-122.59400177,1,K7LJ,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-12-24
-41,58,146.70000,146.10000,100.0,100.0,Portland,Stonehenge Tower,Multnomah,Oregon,United States,45.48920059,-122.69599915,1,KE7AWR,OPEN,On-air,No,No,No,No,0,574925,0,,Yes,No,,,No,No,No,,No,,No,,,Yes,00,00,Open,"1,485', 80 watts.",2022-11-18
-41,62,146.98000,146.38000,D023,D023,Portland,KGW Tower,Multnomah,Oregon,United States,45.52230072,-122.74700165,1,N7EXH,OPEN,On-air,No,No,No,No,47178,256957,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,Allstar requires admin approval.,2022-11-27
-41,63,147.04000,147.64000,100.0,100.0,Portland,Sylvan TV Tower,Multnomah,Oregon,United States,45.51589966,-122.73400116,1,K7RPT,OPEN,On-air,No,No,No,No,,,7959,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"850', 500 watts ERP.",2021-01-16
-41,72,440.35000,445.35000,127.3,127.3,Portland,Stonehenge Tower,Multnomah,Oregon,United States,45.48920059,-122.69599915,1,KB7OYI,OPEN,On-air,Yes,Yes,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-12-23
-41,73,440.40000,445.40000,123.0,123.0,Portland,KOIN Tower,Multnomah,Oregon,United States,45.51557939,-122.73307750,1,W7RAT,OPEN,On-air,No,No,No,No,0,0,3039,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,75,440.45000,445.45000,103.5,103.5,Portland,Skyline,Multnomah,Oregon,United States,45.52220154,-122.74700165,1,N7PIR,OPEN,On-air,No,No,No,No,0,132225,3420,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-12-23
-41,81,441.35000,446.35000,100.0,100.0,Portland,Skyline,Multnomah,Oregon,United States,45.52239990,-122.74700165,1,W7EXH,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,82,442.02500,447.02500,100.0,100.0,Portland,West Hills,Multnomah,Oregon,United States,45.52379990,-122.75299835,0,N7NLL,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-12-06
-41,83,442.22500,447.22500,103.5,103.5,Portland,Sylvan KOIN Tower,Multnomah,Oregon,United States,45.51589966,-122.73400116,1,K7RPT,OPEN,On-air,No,No,No,No,,758452,,,Yes,No,,,No,No,No,,No,,No,,,Yes,00,00,Open,,2022-01-12
-41,88,443.22500,448.22500,107.2,107.2,Portland,,Multnomah,Oregon,United States,45.52360153,-122.67500305,0,W7PMC,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-01-12
-41,91,443.62500,448.62500,77.0,77.0,Portland,Skyline,Multnomah,Oregon,United States,45.52239990,-122.74700165,1,W7DTV,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-01-12
-41,96,440.47500,445.47500,123.0,123.0,Portland,OHSU,Multnomah,Oregon,United States,45.50079953,-122.68613440,1,K0HSU,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,Yes,42,00,,Linked full time to K0HSU repeater at OHSU West Campus in Beaverton/Hillsboro. Both analog FM and YSF Digital.,2022-12-23
-41,426,145.41000,144.81000,100.0,100.0,Corbett,Lookout Point,Multnomah,Oregon,United States,45.48379898,-122.12799835,1,N7LF,OPEN,On-air,Yes,Yes,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-27
-41,455,442.70000,447.70000,100.0,,Portland,OHSU,Multnomah,Oregon,United States,45.49919891,-122.68499756,1,K7LTA,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-12-23
-41,459,442.65000,447.65000,100.0,100.0,Portland,Council Crest,Multnomah,Oregon,United States,45.48889923,-122.70099640,1,K7LJ,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-12-23
-41,507,440.82500,445.82500,110.9,110.9,Portland,Emanuel Hospital,Multnomah,Oregon,United States,45.52999878,-122.69799805,1,K7LHS,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,40 watts.,2022-01-12
-41,524,927.12500,902.12500,103.5,103.5,Portland,KGW Tower,Multnomah,Oregon,United States,45.52230072,-122.74700165,1,K7QDX,OPEN,On-air,No,No,No,No,42215,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,Repeater is linked full-time to the 927-Tech reflector,2022-11-18
-41,655,443.30000,448.30000,100.0,100.0,Portland,Council Crest,Multnomah,Oregon,United States,45.51589966,-122.73400116,1,K7LJ,OPEN,On-air,No,No,No,No,0,599934,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2023-01-13
-41,660,145.31000,144.71000,123.0,123.0,Portland,Skyline,Multnomah,Oregon,United States,45.52239990,-122.74700165,1,N7EXH,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-27
-41,671,440.20000,445.20000,100.0,,Portland,Skyline,Multnomah,Oregon,United States,45.52239990,-122.74700165,1,N7BAR,OPEN,On-air,No,No,No,No,0,5464,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-01-12
-41,686,147.14000,147.74000,107.2,,Portland,Skyline,Multnomah,Oregon,United States,45.52230072,-122.74700165,1,W7AC,OPEN,On-air,Yes,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,CARES 1st Alternate Repeater.,2021-01-16
-41,3505,444.80000,449.80000,107.2,,Portland,,Multnomah,Oregon,United States,45.52349854,-122.67600250,0,N7PRM,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-04-05
-41,6628,443.05000,448.05000,,,Portland,Stonehenge Tower,Multnomah,Oregon,United States,45.48920059,-122.69599915,1,WA7BND,OPEN,On-air,No,No,No,No,,,,11998,No,No,,,No,No,No,,No,,No,,,Yes,00,00,,Yaesu WIRES-X is linked to this repeater. Tune in and learn about C4FM digital. Enjoy,2022-11-27
-41,8239,443.20000,448.20000,173.8,,Portland,Skyline,Multnomah,Oregon,United States,45.60570145,-122.83300018,1,K6PRN,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,Receive antenna issues,2022-12-06
-41,14723,442.25000,447.25000,100.0,100.0,Portland,Skyline Tower,Multnomah,Oregon,United States,45.52289963,-122.75299835,1,WB1ARB,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,Yes,00,00,Open,,2022-11-13
-41,14941,444.67500,449.67500,100.0,,Portland,Council Crest,Multnomah,Oregon,United States,45.49900055,-122.70800018,0,W7PGE,OPEN,On-air,Yes,Yes,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-06-23
-41,15199,440.62500,445.62500,Restricted,Restricted,Portland,West Hills,Multnomah,Oregon,United States,45.50519943,-122.70600128,0,KB7APU,OPEN,On-air,No,No,No,No,0,0,0,,No,Yes,1,314102,No,No,No,,No,,No,,,No,,,,,2021-02-18
-41,15431,440.50000,445.50000,D125,D125,Portland,KGW Tower,Multnomah,Oregon,United States,45.52230072,-122.74700165,0,AB7BS,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-01-12
-41,15504,443.10000,448.10000,,,Corbett,Lookout Point,Multnomah,Oregon,United States,45.53179932,-122.29100037,1,N7LF,OPEN,On-air,Yes,Yes,No,No,0,0,0,,No,Yes,1,312435,No,No,No,,No,,No,,,No,,,,Connected to PNW Digital System. Visit PNWDigital.net for further info on supported TG.,2021-04-13
-41,17145,443.27500,448.27500,167.9,167.9,Portland,Healy Heights,Multnomah,Oregon,United States,45.48929977,-122.69699860,1,KA7AGH,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-12-12
-41,17154,1249.75000,1229.75000,,,Portland,,Multnomah,Oregon,United States,45.51219940,-122.65899658,0,KG7KOU,OPEN,Unknown,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-04-05
-41,18063,444.83750,449.83750,,,Portland,Providence Portland Medical Center,Multnomah,Oregon,United States,45.52861111,-122.61333330,1,WA7HAA,OPEN,On-air,No,No,No,No,0,0,0,,No,Yes,7,310395,No,No,No,,No,,No,,,No,,,,Open use. Connected to PNW Digital System. Visit PNWDigital.net for further info on supported TG's and other important info.,2021-03-26
-41,18665,443.07500,448.07500,,,Gresham,Hospital,Multnomah,Oregon,United States,45.51682050,-122.40688330,1,N7LF,OPEN,On-air,Yes,Yes,No,No,0,0,0,,No,Yes,1,314103,No,No,No,,No,,No,,,No,,,,Connected to PNW Digital System. Visit PNWDigital.net for further info on supported TG.,2021-03-26
-41,18737,440.51250,445.51250,,,Portland,Sylvan KOIN tower,Multnomah,Oregon,United States,45.50510640,-122.67502610,1,K7RPT,OPEN,On-air,No,No,No,No,0,0,0,,No,Yes,1,311391,No,No,No,,No,,No,,,No,,,,Open use. Connected to PNW Digital System. Visit PNWDigital.net for further info on supported TG.,2021-03-04
-41,19825,443.25000,448.25000,100.0,100.0,Gresham,Legacy Mount Hood Medical Cntr,Multnomah,Oregon,United States,45.51663900,-122.40736100,1,N7KOJ,OPEN,On-air,No,No,No,No,,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,Everyone is welcome to use this open repeater. This repeater is not yet listed in the ORRC online database.,2021-02-28
-41,20396,440.15000,445.15000,,,Portland,Skyline,Multnomah,Oregon,United States,45.52220154,-122.74700165,1,K7KSN,OPEN,On-air,No,No,No,No,0,0,0,,No,Yes,5,315338,No,No,No,,No,,No,,,No,,,,,2021-10-18
-41,20709,927.15000,902.15000,,,Portland,downtown,Multnomah,Oregon,United States,45.49687050,-122.68376800,0,KB7APU,OPEN,On-air,No,No,No,No,,0,0,,No,Yes,1,310392,No,No,No,,No,,No,,,No,,,,,2022-03-10
-41,20710,440.01250,445.01250,,,Portland,OHSU,Multnomah,Oregon,United States,45.49836790,-122.68534590,1,K7CLL,OPEN,Off-air,No,No,No,No,0,0,0,,No,No,,,Yes,No,No,,No,,No,,,No,,,,,2022-03-10
-41,20711,440.77500,445.77500,Restricted,Restricted,Portland,,Multnomah,Oregon,United States,45.51523200,-122.67838530,0,KB7APU,CLOSED,On-air,Yes,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,ARES and SAR repeater traffic only.,2022-03-10
-41,366,145.33000,144.73000,186.2,186.2,Salem,Eagle Crest,Polk,Oregon,United States,44.98640060,-123.13300323,1,W7SRA,OPEN,On-air,Yes,Yes,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,Swaptoberfest Talk-in Frequency,2022-11-18
-41,383,147.02000,147.62000,186.2,186.2,Falls City,Laurel Mountain,Polk,Oregon,United States,44.92340088,-123.57299805,1,W7SRA,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,520,442.50000,447.50000,100.0,,Salem,,Polk,Oregon,United States,44.94290161,-123.03500366,0,W7BJH,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,100 watts.,2022-06-13
-41,2783,927.70000,902.70000,162.2,,Monmouth,,Polk,Oregon,United States,44.84859848,-123.23300171,0,KE7AAJ,OPEN,Unknown,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,0000-00-00
-41,6773,224.60000,223.00000,100.0,,Salem,,Polk,Oregon,United States,44.94290161,-123.03500366,0,W7BJH,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-06-13
-41,8071,440.07500,445.07500,103.5,103.5,Salem,Bald Hill (Eagle Crest),Polk,Oregon,United States,44.98389816,-123.14399719,1,N7PIR,OPEN,Off-air,No,No,No,No,0,132225,3420,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,11905,224.92000,223.32000,136.5,,Salem,Salem Hills,Polk,Oregon,United States,44.94290161,-123.03500366,0,W6WHD,OPEN,Off-air,No,No,No,No,40676,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,Usually connected via Allstar to node 45830.,2022-12-07
-41,14576,442.45000,447.45000,D125,D125,Salem,Eagle Crest,Polk,Oregon,United States,44.98450089,-123.14299774,0,AB7BS,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-12-06
-41,17725,146.66000,146.06000,136.5,91.5,Grande Ronde,,Polk,Oregon,United States,45.07870102,-123.48600006,0,W7GRT,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-09-25
-41,17795,442.82500,447.82500,123.0,,Grande Ronde,Spirit Mtn Casino,Polk,Oregon,United States,45.05824470,-123.58170040,1,W7GRT,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-02-19
-41,114,145.27000,144.67000,107.2,107.2,Timber,,Tillamook,Oregon,United States,45.72000122,-123.29299927,0,KJ7IY,OPEN,On-air,Yes,Yes,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-08-14
-41,230,440.17500,445.17500,100.0,,Manzanita,Angora Peak,Tillamook,Oregon,United States,45.78779984,-123.91899872,1,W7EM,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-09-21
-41,386,147.22000,147.82000,100.0,,Hebo,Mt Hebo,Tillamook,Oregon,United States,45.21480179,-123.75499725,0,W7LI,OPEN,On-air,Yes,Yes,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,389,440.90000,445.90000,118.8,118.8,Hebo,Mt Hebo,Tillamook,Oregon,United States,45.21480179,-123.75499725,1,W7GC,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,, Telemetry Status: <img border=1 src=http://www.ocrg.org/video_feed/mt_hebo/alarm_status_mt_hebo.png width=100 height=29 align=top>,2022-11-18
-41,390,441.25000,446.25000,118.8,,Hebo,Mt Hebo,Tillamook,Oregon,United States,45.21799850,-123.75499725,0,W7LI,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,391,441.30000,446.30000,100.0,,Hebo,Mt Hebo,Tillamook,Oregon,United States,45.21480179,-123.75499725,1,W7EM,OPEN,On-air,No,No,No,No,0,266640,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,393,442.75000,447.75000,118.8,,Rockaway Beach,,Tillamook,Oregon,United States,45.61360168,-123.94200134,1,W7GC,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,Telemetry Status: <img src=http://www.ocrg.org/video_feed/rockaway/alarm_status_rockaway.png width=100 height=29 align=top>,2020-09-25
-41,518,443.07500,448.07500,167.9,,Hebo,Mt Hebo,Tillamook,Oregon,United States,45.21480179,-123.75499725,1,WB7QIW,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,665,440.52500,445.52500,77.0,,Tillamook,Triangulation Point,Tillamook,Oregon,United States,45.63150024,-123.64399719,1,W7EM,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-09-21
-41,5174,147.39000,147.99000,,,Hebo,Mt Hebo,Tillamook,Oregon,United States,45.21480179,-123.75499725,1,W7GC,OPEN,On-air,No,No,No,No,0,,0,,No,No,,,Yes,No,No,,No,,No,,,No,,,,,2022-12-06
-41,15198,442.81250,447.81250,Restricted,Restricted,Hebo,Mt Hebo,Tillamook,Oregon,United States,45.22669983,-123.84799957,0,KB7APU,OPEN,On-air,No,No,No,No,0,0,0,,No,Yes,1,314106,No,No,No,,No,,No,,,No,,,,,2021-02-18
-41,18791,444.42500,449.42500,107.2,,Manzanita,,Tillamook,Oregon,United States,45.72398400,-123.93282700,1,W7MOC,OPEN,On-air,No,No,No,No,,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-09-25
-41,21214,442.12500,447.12500,123.0,,Manzanita,Neahkahnie Mtn,Tillamook,Oregon,United States,45.74399570,-123.94096950,1,W7MOC,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-12-12
-41,397,146.80000,146.20000,123.0,123.0,Elgin,Spout Springs Ski Resort,Umatilla,Oregon,United States,45.74670029,-118.03700256,1,WF7S,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,Yes,00,00,Open,,2022-11-18
-41,398,145.33000,144.73000,103.5,,Pendleton,Deadman Pass,Umatilla,Oregon,United States,45.60100174,-118.50399780,0,K7RPT,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"108 watts ERP, 3,606'.",2021-02-21
-41,399,146.88000,146.28000,D073,D073,Pendleton,Cabbage Hill,Umatilla,Oregon,United States,45.55459976,-118.61100006,1,W7NEO,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,405,147.28000,147.88000,,,Milton-Freewater,Pikes Peak,Umatilla,Oregon,United States,45.98429871,-118.16899872,1,KD7DDQ,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,RF Linked to the AK2O 223.9 mhz hub repeater on Stensgar Mt. using yagi antenna.,2021-02-19
-41,406,224.56000,222.96000,CSQ,,Pendleton,Cabbage Hill,Umatilla,Oregon,United States,45.55459976,-118.61100006,1,N7NKT,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,408,444.65000,449.65000,CSQ,,Weston,Waldo Mountain,Umatilla,Oregon,United States,45.80640030,-118.33499908,1,N7DWC,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-05-13
-41,410,444.95000,449.95000,136.5,,Ukiah,Carney Butte,Umatilla,Oregon,United States,45.28099823,-118.94899750,1,W7URG,OPEN,Off-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,900 Watts ERP. Blue Mountains Outback areas for Deer and Elk hunters.,2021-09-27
-41,411,444.97500,449.97500,,,Pendleton,Cabbage Hill,Umatilla,Oregon,United States,45.58549881,-118.58200073,1,W7NEO,OPEN,On-air,No,No,No,No,0,,0,40289,No,No,,,No,No,No,,No,,No,,,Yes,00,00,0,,2022-11-18
-41,413,927.50000,902.50000,,,Pendleton,Cabbage Hill,Umatilla,Oregon,United States,45.58549881,-118.58200073,1,N7ERT,CLOSED,Unknown,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,Closed repeater. PL withheld by request.,0000-00-00
-41,5176,441.95000,446.95000,,,Hermiston,,Umatilla,Oregon,United States,45.84040070,-119.28900146,0,W7URG,OPEN,Off-air,No,No,No,No,0,,0,,No,No,,,Yes,No,No,,No,,No,,,No,,,,,2020-05-01
-41,15461,147.04000,147.64000,,,Athena,Weston Mountain,Umatilla,Oregon,United States,45.80049896,-118.37799835,0,W7NEO,OPEN,On-air,No,No,No,No,0,,0,40289,No,No,,,No,No,No,,No,,No,,,Yes,00,00,none,,2022-08-17
-41,16922,441.70000,446.70000,131.8,131.8,Athena,Weston Mtn,Umatilla,Oregon,United States,45.80049896,-118.37799835,1,W7NEO,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2019-02-22
-41,17814,443.80000,448.80000,118.8,118.8,Hermiston,,Umatilla,Oregon,United States,45.85459900,-119.27999878,1,WB7ILL,OPEN,On-air,No,No,No,No,0,,0,40289,Yes,No,,,No,No,No,,No,,No,,,Yes,00,00,,,2022-04-06
-41,414,145.15000,144.55000,110.9,110.9,La Grande,Mount Emily,Union,Oregon,United States,45.43739025,-118.09203014,1,K7UNI,OPEN,On-air,Yes,No,Yes,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,Yes,00,00,,,2023-01-03
-41,417,147.26000,147.86000,103.5,,La Grande,Mount Fanny,Union,Oregon,United States,45.30789948,-117.73000336,1,K7RPT,OPEN,On-air,Yes,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-02-19
-41,420,444.92500,449.92500,146.2,146.2,La Grande,Mount Harris,Union,Oregon,United States,45.44039917,-117.89299774,1,KF7GOR,OPEN,On-air,No,No,No,No,0,727358,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,This system has a remote base on 147.500 MHz Simplex Tone 146.2. Remote base works on Echolink and is always on. ,2021-11-22
-41,13817,146.98000,146.38000,100.0,100.0,La Grande,Grande Ronde Hospital,Union,Oregon,United States,45.31969833,-118.10600281,0,W7GRA,OPEN,On-air,No,No,No,No,,,,30274,Yes,No,,,No,No,No,,No,,No,,,Yes,00,00,,**NEWS***12/20/19: Wires-X is back online.,2019-12-30
-41,19450,145.29000,144.69000,,,Ukiah,Tower Mt,Union,Oregon,United States,45.03048100,-118.34054000,0,W7NEO,OPEN,On-air,No,No,No,No,0,0,0,40289,No,No,,,No,No,No,,No,,No,,,Yes,00,00,,,2021-09-24
-41,2990,147.00000,147.60000,103.5,103.5,Joseph,,Wallowa,Oregon,United States,45.38859940,-117.23300171,1,KB7DZR,OPEN,On-air,No,No,No,No,0,323569,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,Open for any use and everyone is welcome on this system.,2022-11-13
-41,11147,444.78750,449.78750,,,Joseph,,Wallowa,Oregon,United States,45.38859940,-117.23300171,1,KB7DZR,OPEN,On-air,No,No,No,No,0,,0,,No,Yes,1,312685,No,No,No,,No,,No,,,No,,,,This system is open and can be linked to any talk group or private call. Please use talk group 312685 WC on time slot 1 for local communications. Remote users can link to this talk group also.,2022-08-15
-41,421,146.74000,146.14000,100.0,100.0,The Dalles,,Wasco,Oregon,United States,45.59469986,-121.17700195,0,KC7LDD,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-08-14
-41,3090,147.26000,147.86000,82.5,,Dufur,Tygh Ridge,Wasco,Oregon,United States,45.30559921,-121.06600189,0,WC7EC,OPEN,Unknown,No,Yes,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,5538,444.70000,449.70000,100.0,100.0,The Dalles,Stacker Butte,Wasco,Oregon,United States,45.59460068,-121.17900085,0,KF7LN,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-08-14
-41,101,444.85000,449.85000,123.0,,Beaverton,St Vincent Hosp,Washington,Oregon,United States,45.51050186,-122.77200317,1,W7PSV,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"500 feet, 50 watts.",2022-01-12
-41,115,147.36000,147.96000,107.2,107.2,Aloha,Cooper Mountain,Washington,Oregon,United States,45.45529938,-122.87100220,1,N7QQU,OPEN,On-air,Yes,Yes,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-06-23
-41,118,147.32000,147.92000,100.0,100.0,Forest Grove,South Saddle Mountain,Washington,Oregon,United States,45.54980087,-123.37400055,1,K7RPT,OPEN,On-air,Yes,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-11-18
-41,121,147.38000,147.98000,100.0,,Cedar Mill,,Washington,Oregon,United States,45.52479935,-122.81099701,1,K7RPT,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"218 watts ERP, 250'.",2021-01-16
-41,125,442.05000,447.05000,,,Aloha,,Washington,Oregon,United States,45.51499939,-122.84899902,1,K7WWG,CLOSED,Off-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-01-21
-41,127,442.32500,447.32500,100.0,,Forest Grove,South Saddle Mountain,Washington,Oregon,United States,45.54980087,-123.37400055,1,K7RPT,OPEN,On-air,Yes,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"125 watts and 3,600 feet.",2022-01-12
-41,128,442.52500,447.52500,107.2,107.2,Aloha,Cooper Mountain,Washington,Oregon,United States,45.45539856,-122.87100220,0,KA7OSM,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-01-12
-41,134,443.35000,448.35000,156.7,,Aloha,,Washington,Oregon,United States,45.49449921,-122.86599731,0,NM7B,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-01-12
-41,467,444.97500,449.97500,107.2,107.2,Hillsboro,Intel's Jones Farm Campus,Washington,Oregon,United States,45.54240036,-122.95999908,1,K7CPU,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-01-12
-41,469,145.45000,144.85000,136.5,,North Plains,,Washington,Oregon,United States,45.59719849,-122.99199677,0,KE7DC,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-01-16
-41,523,1292.00000,1272.00000,,,Sherwood,,Washington,Oregon,United States,45.35649872,-122.83999634,1,WB7DZG,OPEN,On-air,No,No,No,No,0,,0,,No,No,,,Yes,No,No,,No,,No,,,No,,,,,2021-01-17
-41,659,441.82500,446.82500,107.2,107.2,Timber,Hoffman Hill,Washington,Oregon,United States,45.75830078,-123.16999817,1,KJ7IY,OPEN,On-air,No,No,No,No,,82962,3881,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-01-12
-41,2808,440.10000,445.10000,162.2,,Tigard,QTH,Washington,Oregon,United States,45.43140030,-122.76999664,0,K7ICY,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"159 feet asl, 40 watts ERP.",2022-01-12
-41,3503,440.55000,445.55000,,,Hillsboro,Synopsys,Washington,Oregon,United States,45.53340149,-122.90299988,1,N7QQU,OPEN,On-air,Yes,Yes,No,No,,,,,No,No,,,Yes,No,No,,No,,No,,,No,,,,Repeater is located on the top of the Synopsys building at the intersection of Cornelius Pass Road and Cornell Road in Hillsboro and provides general coverage in Washington County.,2020-12-04
-41,5172,444.31250,449.31250,,,Sherwood,,Washington,Oregon,United States,45.35649872,-122.83999634,1,WB7DZG,OPEN,On-air,No,No,No,No,,,,,No,No,,,Yes,No,No,,No,,No,,,No,,,,,2022-04-04
-41,5173,146.62000,146.02000,,,Sherwood,,Washington,Oregon,United States,45.35649872,-122.83999634,1,WB7DZG,OPEN,On-air,No,No,No,No,0,0,0,,No,No,,,Yes,No,No,,No,,No,,,No,,,,,2021-02-19
-41,7441,927.11250,902.11250,107.2,107.2,Gales Creek,,Washington,Oregon,United States,45.58649826,-123.21499634,0,KJ7IY,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-03-10
-41,8620,443.75000,448.75000,100.0,,Newberg,Chehalem Ridge,Washington,Oregon,United States,45.34999847,-122.97000122,1,K7RPT,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-01-12
-41,8896,52.85000,51.15000,107.2,,Timber,,Washington,Oregon,United States,45.71979904,-123.29599762,0,KR7IS,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-04-05
-41,9660,444.80000,449.80000,107.2,,Cedar Mill,,Washington,Oregon,United States,45.52709961,-122.79299927,0,N7PRM,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-01-12
-41,11138,440.17500,445.17500,110.9,110.9,Tigard,Bull Mountain,Washington,Oregon,United States,45.41559982,-122.81300354,1,KF7TTS,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,Normally open to all hams - Preparedness topics encouraged - Closed during emergency: Tigard CERT only,2022-01-12
-41,11146,444.75000,449.75000,123.0,,Beaverton,,Washington,Oregon,United States,45.48709869,-122.80400085,0,WB7CRT,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-01-12
-41,15227,444.02500,449.02500,Restricted,Restricted,Buxton,Green Mountain/Buxton Lookout,Washington,Oregon,United States,45.68870163,-123.19100189,0,KB7APU,OPEN,On-air,No,No,No,No,0,0,0,,No,Yes,9,314108,No,No,No,,No,,No,,,No,,,,,2021-06-23
-41,15808,442.27500,447.27500,107.2,,Sherwood,,Washington,Oregon,United States,45.35649872,-122.83999634,0,KJ7IY,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-01-12
-41,15810,442.57500,447.57500,123.0,,Sherwood,,Washington,Oregon,United States,45.35632610,-122.84027490,0,K7REA,OPEN,On-air,No,No,No,No,0,,0,80041,No,No,,,No,No,No,,No,,No,,,Yes,00,00,OPEN,"Use DG-ID TX01 for Wires-X access. This repeater is digital only, no FM analog voice. See web page on info linking to other repeaters (http://www.k7rea.com/).",2021-06-23
-41,18792,444.52500,449.52500,136.5,,Tualatin,,Washington,Oregon,United States,45.37799880,-122.78218170,0,KJ7ECQ,OPEN,On-air,Yes,Yes,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-01-12
-41,19704,441.47500,446.47500,,,Beaverton,,Washington,Oregon,United States,45.48887610,-122.80137710,0,KG7RFM,OPEN,Unknown,No,No,No,No,0,0,0,,No,Yes,2,314118,No,No,No,,No,,No,,,No,,,,,2021-06-23
-41,20133,440.81250,445.81250,,,Hillsboro,South Saddle Mountain,Washington,Oregon,United States,45.54508300,-123.38236100,1,K7RPT,OPEN,On-air,Yes,Yes,No,No,0,0,0,,No,Yes,1,311191,No,No,No,,No,,No,,,No,,,,,2021-07-04
-41,20684,440.07500,445.07500,123.0,123.0,Hillsboro,,Washington,Oregon,United States,45.52346412,-122.87331893,0,K0HSU,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,Yes,13,00,,,2022-05-17
-41,21346,440.75000,445.75000,97.4,,Tualatin,Pony Ridge,Washington,Oregon,United States,45.38654000,-122.81416400,1,NA7A,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,Yes,00,00,,,2022-12-19
-41,21347,145.25000,144.65000,97.4,,Tualatin,Pony Ridge,Washington,Oregon,United States,45.38654000,-122.81416400,1,NA7A,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,Yes,00,00,,,2022-12-19
-41,16116,146.68000,146.08000,162.2,,Fossil,Snowboard Ridge,Wheeler,Oregon,United States,44.99819946,-120.21600342,0,KG7CXO,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2023-02-24
-41,23,145.47000,144.87000,107.2,107.2,Sherwood,,Yamhill,Oregon,United States,45.35649872,-122.83999634,0,KR7IS,OPEN,On-air,Yes,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-06-23
-41,25,146.92000,146.32000,100.0,100.0,Sherwood,Parrett Mountain,Yamhill,Oregon,United States,45.30914900,-122.88458600,1,AH6LE,OPEN,On-air,Yes,Yes,No,No,0,303161,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,Node is accessible via the entire AH6LE Repeater System.,2022-11-18
-41,37,442.67500,447.67500,100.0,100.0,Newberg,Chehelam Ridge,Yamhill,Oregon,United States,45.33926100,-122.91595300,1,AH6LE,OPEN,On-air,Yes,Yes,No,No,0,303161,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,Node is accessible via the entire AH6LE Repeater System.,2022-07-09
-41,40,443.42500,448.42500,107.2,,Sherwood,,Yamhill,Oregon,United States,45.35649872,-122.83999634,0,KR7IS,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,839'.,2022-01-12
-41,84,442.55000,447.55000,114.8,,Newberg,Bald Peak,Yamhill,Oregon,United States,45.29999924,-122.98000336,0,WA7RGO,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-01-12
-41,112,1291.50000,1271.50000,,,Laurelwood,Bald Peak,Yamhill,Oregon,United States,45.39599991,-123.05599976,1,K7AUO,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"There is not Repeater Record Custodian (RRC) assigned to this repeater. Please ask WA3RMX -- THOMAS C. HILL, III -- TRUSTEE to Register with RepeaterBook.com so that he (and others of his choice) can be assigned as such. ",2021-06-24
-41,117,146.90000,146.30000,127.3,127.3,Newberg,Chehalem Mountain,Yamhill,Oregon,United States,45.37620163,-123.03700256,1,K7WWG,OPEN,On-air,Yes,Yes,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-06-23
-41,122,224.06000,222.46000,107.2,,Newberg,,Yamhill,Oregon,United States,45.35670090,-122.83899689,0,KR7IS,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-02-19
-41,135,443.65000,448.65000,100.0,,Laurelwood,Bald Peak,Yamhill,Oregon,United States,45.39599991,-123.05599976,1,K7AUO,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,"There is no Repeater Record Custodian (RRC) assigned to this repeater. Please ask WA3RMX -- THOMAS C. HILL, III -- TRUSTEE to register with RepeaterBoook.com so that he (and others he so chooses) can be assigned as such. ",2022-01-12
-41,425,145.11000,144.51000,103.5,,Newberg,Chehalem Mountain,Yamhill,Oregon,United States,45.37620163,-123.03700256,1,KB7PSM,OPEN,On-air,No,No,No,No,0,,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,PL not required.,2022-11-18
-41,428,146.64000,146.04000,100.0,,McMinnville,Eola Hills,Yamhill,Oregon,United States,45.07540131,-123.12400055,1,W7RXJ,OPEN,On-air,No,No,Yes,No,0,576557,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-12-06
-41,431,441.80000,446.80000,114.8,,McMinnville,Eola Hill,Yamhill,Oregon,United States,45.09960175,-123.14700317,1,W7YAM,OPEN,On-air,Yes,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-04-05
-41,474,52.83000,51.13000,107.2,107.2,Newberg,,Yamhill,Oregon,United States,45.30009842,-122.97299957,0,KR7IS,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-06-22
-41,664,224.56000,222.96000,100.0,,Sheridan,,Yamhill,Oregon,United States,45.09700012,-123.39499664,0,AC7ZQ,OPEN,On-air,No,No,No,No,,,,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2019-05-05
-41,15506,444.48750,449.48750,,,Newberg,,Yamhill,Oregon,United States,45.30009842,-122.97299957,0,N7MAQ,OPEN,On-air,No,No,No,No,,,,,No,Yes,1,314110,No,No,No,,No,,No,,,No,,,,"On air, but not on network at this time.",2020-04-11
-41,18772,52.89000,51.19000,156.7,,Newberg,,Yamhill,Oregon,United States,45.30642580,-122.94694630,0,N7MAQ,OPEN,Unknown,No,No,No,No,,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-05-12
-41,18794,926.26250,916.26250,,,Newberg,,Yamhill,Oregon,United States,45.30642580,-122.94694630,0,WA7SUP,OPEN,Unknown,No,No,No,No,,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2020-05-13
-41,18994,145.21000,144.61000,110.9,,Amity,Eola Hill,Yamhill,Oregon,United States,45.09766580,-123.14510480,0,W1ARK,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2021-09-12
-41,20969,224.20000,222.60000,100.0,,Carlton,,Yamhill,Oregon,United States,45.29419730,-123.17701830,0,K7JCN,OPEN,On-air,No,No,No,No,0,0,0,,Yes,No,,,No,No,No,,No,,No,,,No,,,,,2022-07-18
+sLocation,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+1,W7NYW,145.17000,-,0.5999999999999943,TSQL,110.9,110.9,023,NN,023,,FM,5,,1.0W,,,,,
+2,W7NYW,145.27000,-,0.6000000000000227,TSQL,110.9,110.9,023,NN,023,,FM,5,,1.0W,,,,,
+3,K7OJI,147.12000,+,0.5999999999999943,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+4,K7CVO,146.78000,-,0.5999999999999943,TSQL,156.7,107.2,023,NN,023,,FM,5,,1.0W,,,,,
+5,W7OSU,147.16000,+,0.5999999999999943,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+6,W7CQZ,441.97500,+,5,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+7,N8GFO,442.30000,+,5,Tone,162.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+8,K7LNK,440.42500,+,5,DCS,D125,D125,D125,NN,023,,FM,5,,1.0W,,,,,
+9,WA7TUV,146.82000,-,0.5999999999999943,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+10,W7OSU,443.05000,+,5,DCS,D032,D032,D032,NN,023,,FM,5,,1.0W,,,,,
+11,AB7BS,440.80000,+,5,DCS,D125,127.3,D125,NN,023,,FM,5,,1.0W,,,,,
+12,AB7BS,441.72500,+,5,Tone,136.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+13,K7WVD,444.27500,+,5,Tone,67.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+14,W7LT,146.94000,-,0.5999999999999943,Tone,CSQ,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+15,W7OTV,146.96000,-,0.5999999999999943,TSQL,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+16,K7RPT,147.12000,+,0.5999999999999943,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+17,WB7QIW,147.28000,+,0.5999999999999943,TSQL,167.9,167.9,023,NN,023,,FM,5,,1.0W,,,,,
+18,W7OTV,440.25000,+,5,Tone,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+19,KC7MZM,440.30000,+,5,Tone,167.9,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+20,W7ZRS,442.07500,+,5,TSQL,103.5,103.5,023,NN,023,,FM,5,,1.0W,,,,,
+21,WB7QIW,443.47500,+,5,TSQL,167.9,167.9,023,NN,023,,FM,5,,1.0W,,,,,
+22,K7RPT,444.22500,+,5,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+23,KJ7IY,146.80000,-,0.6000000000000227,TSQL,107.2,107.2,023,NN,023,,FM,5,,1.0W,,,,,
+24,W7DTV,440.70000,+,5,TSQL,77.0,77.0,023,NN,023,,FM,5,,1.0W,,,,,
+25,N7PIR,443.70000,+,5,TSQL,103.5,103.5,023,NN,023,,FM,5,,1.0W,,,,,
+26,N7PIR,443.87500,+,5,TSQL,103.5,103.5,023,NN,023,,FM,5,,1.0W,,,,,
+27,KB7WUK,1291.00000,-,20,Tone,107.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+28,KJ7IY,53.35000,-,1.7000000000000028,TSQL,107.2,107.2,023,NN,023,,FM,5,,1.0W,,,,,
+29,KJ7IY,442.87500,+,5,TSQL,107.2,107.2,023,NN,023,,FM,5,,1.0W,,,,,
+30,KJ7IY,443.15000,+,5,TSQL,107.2,107.2,023,NN,023,,FM,5,,1.0W,,,,,
+31,K7CFD,444.45000,+,5,Tone,131.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+32,WB7DZG,442.92500,+,5,Tone,107.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+33,KE7AWR,442.42500,+,5,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+34,KJ7IY,145.43000,-,0.5999999999999943,TSQL,107.2,107.2,023,NN,023,,FM,5,,1.0W,,,,,
+35,W7OTV,223.94000,-,1.5999999999999943,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+36,KD7DEG,224.46000,-,1.5999999999999943,Tone,107.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+37,WB6EGS,441.40000,+,5,TSQL,88.5,88.5,023,NN,023,,FM,5,,1.0W,,,,,
+38,KR7IS,29.68000,-,0.10000000000000142,TSQL,162.2,162.2,023,NN,023,,FM,5,,1.0W,,,,,
+39,WB7DZG,443.85000,+,5,Tone,107.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+40,WA7BND,444.17500,+,5,Tone,123.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+41,WA7DRO,441.65000,+,5,Tone,107.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+42,W7LT,147.18000,+,0.5999999999999943,TSQL,103.5,103.5,023,NN,023,,FM,5,,1.0W,,,,,
+43,KB7APU,442.75000,+,5,TSQL,Restricted,Restricted,023,NN,023,,FM,5,,1.0W,,,,,
+44,KB7APU,442.98750,+,5,TSQL,Restricted,Restricted,023,NN,023,,FM,5,,1.0W,,,,,
+45,WB7DZG,52.97000,-,1.6999999999999957,TSQL,107.2,107.2,023,NN,023,,FM,5,,1.0W,,,,,
+46,KJ7IY,223.96000,-,1.5999999999999943,Tone,107.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+47,WA7LO,444.30000,+,5,TSQL,82.5,82.5,023,NN,023,,FM,5,,1.0W,,,,,
+48,KA7AGH,441.32500,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+49,WA7ABU,444.60000,+,5,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+50,KB7APU,440.63750,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+51,K7PN,444.15000,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+52,K7JCN,224.30000,-,1.6000000000000227,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+53,K7JCN,224.34000,+,0.4000000000000057,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+54,W7BU,146.66000,-,0.5999999999999943,TSQL,118.8,118.8,023,NN,023,,FM,5,,1.0W,,,,,
+55,W7BU,146.74000,-,0.6000000000000227,Tone,118.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+56,W7BU,146.76000,-,0.5999999999999943,Tone,118.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+57,N7XAC,444.50000,+,5,Tone,118.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+58,W7BU,444.77500,+,5,Tone,118.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+59,WA7VE,145.49000,-,0.6000000000000227,Tone,118.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+60,N7PIR,443.87500,+,5,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+61,WA7PIX,147.00000,+,0.5999999999999943,Tone,118.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+62,NA7Q,147.52000,,0,Tone,118.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+63,K7RPT,146.72000,-,0.5999999999999943,TSQL,114.8,114.8,023,NN,023,,FM,5,,1.0W,,,,,
+64,W7BU,442.50000,+,5,TSQL,118.8,118.8,023,NN,023,,FM,5,,1.0W,,,,,
+65,W7BU,444.85000,+,5,Tone,118.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+66,W7BU,146.80000,-,0.6000000000000227,Tone,118.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+67,,224.28000,-,1.5999999999999943,Tone,103.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+68,,52.81000,-,1.7000000000000028,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+69,NA7Q,147.16000,+,0.5999999999999943,TSQL,118.8,118.8,023,NN,023,,FM,5,,1.0W,,,,,
+70,N7EI,146.88000,-,0.5999999999999943,TSQL,114.8,114.8,023,NN,023,,FM,5,,1.0W,,,,,
+71,N3EG,441.70000,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+72,N7EI,444.62500,+,5,TSQL,107.2,107.2,023,NN,023,,FM,5,,1.0W,,,,,
+73,N7EI,146.68000,-,0.5999999999999943,TSQL,114.8,114.8,023,NN,023,,FM,5,,1.0W,,,,,
+74,N7DEM,224.66000,-,1.5999999999999943,TSQL,114.8,114.8,023,NN,023,,FM,5,,1.0W,,,,,
+75,AA7BG,441.86250,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+76,W7VER,145.25000,-,0.5999999999999943,Tone,114.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+77,N7EI,224.38000,-,1.5999999999999943,Tone,114.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+78,W7OC,145.19000,-,0.5999999999999943,Tone,146.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+79,K7CCH,146.61000,-,0.6000000000000227,TSQL,110.9,110.9,023,NN,023,,FM,5,,1.0W,,,,,
+80,AB7BS,146.92000,-,0.5999999999999943,TSQL,136.5,91.5,023,NN,023,,FM,5,,1.0W,,,,,
+81,W7OC,147.28000,+,0.5999999999999943,TSQL,146.2,146.2,023,NN,023,,FM,5,,1.0W,,,,,
+82,WA7JAW,440.80000,+,5,Tone,103.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+83,W7OC,444.17500,+,5,Tone,146.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+84,KD7IOP,444.52500,+,5,Tone,123.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+85,W7OC,147.10000,+,0.5999999999999943,TSQL,88.5,88.5,023,NN,023,,FM,5,,1.0W,,,,,
+86,AB7BS,146.88000,-,0.5999999999999943,DCS,D023,127.3,D023,NN,023,,FM,5,,1.0W,,,,,
+87,W7OC,441.72500,+,5,Tone,131.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+88,K7REA,147.32000,+,0.5999999999999943,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+89,N7CCO,147.38000,+,0.5999999999999943,Tone,162.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+90,N7PIR,444.17500,+,5,TSQL,103.5,103.5,023,NN,023,,FM,5,,1.0W,,,,,
+91,N7CCO,145.21000,-,0.5999999999999943,Tone,141.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+92,N7CCO,441.25000,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+93,KA7GNK,145.21000,-,0.5999999999999943,Tone,88.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+94,K7SEG,146.74000,-,0.6000000000000227,Tone,88.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+95,W7BKG,146.96000,-,0.5999999999999943,Tone,88.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+96,N7UBQ,147.25000,+,0.5999999999999943,Tone,88.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+97,KD7IOP,440.72500,+,5,Tone,114.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+98,W7BKG,146.84000,-,0.5999999999999943,Tone,88.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+99,WA7JAW,147.04000,+,0.5999999999999943,Tone,88.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+100,K6JR,443.80000,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+101,KB7LNR,443.05000,+,5,Tone,162.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+102,W7DCO,145.45000,-,0.5999999999999943,TSQL,103.5,CSQ,023,NN,023,,FM,5,,1.0W,,,,,
+103,W7HWY,145.49000,-,0.6000000000000227,TSQL,162.2,162.2,023,NN,023,,FM,5,,1.0W,,,,,
+104,W7JVO,146.70000,-,0.5999999999999943,Tone,162.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+105,W7JVO,444.75000,+,5,Tone,156.7,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+106,W7DUX,146.90000,-,0.5999999999999943,Tone,123.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+107,W7JVO,146.94000,-,0.5999999999999943,Tone,162.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+108,K7RPT,147.04000,+,0.5999999999999943,Tone,114.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+109,AB7BS,442.12500,+,5,DCS,D125,127.3,D125,NN,023,,FM,5,,1.0W,,,,,
+110,KA7QAV,146.64000,-,0.5999999999999943,Tone,123.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+111,KB7LNR,443.65000,+,5,Tone,162.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+112,W7PRA,145.13000,-,0.5999999999999943,DCS,D026,D026,D026,NN,023,,FM,5,,1.0W,,,,,
+113,KC7DMF,444.45000,+,5,TSQL,162.2,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+114,AA1JW,444.92500,+,5,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+115,KB7APU,442.95000,+,5,TSQL,Restricted,Restricted,023,NN,023,,FM,5,,1.0W,,,,,
+116,W7DCO,442.55000,+,5,Tone,162.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+117,W7JVO,443.75000,+,5,Tone,156.7,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+118,W7OC,147.38000,+,0.5999999999999943,TSQL,146.2,146.2,023,NN,023,,FM,5,,1.0W,,,,,
+119,AB7BS,145.21000,-,0.5999999999999943,TSQL,136.5,91.5,023,NN,023,,FM,5,,1.0W,,,,,
+120,WA7BWT,145.43000,-,0.5999999999999943,Tone,88.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+121,KC7TLY,146.90000,-,0.5999999999999943,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+122,KC7UAV,147.12000,+,0.5999999999999943,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+123,WB7RKR,147.24000,+,0.5999999999999943,TSQL,136.5,136.5,023,NN,023,,FM,5,,1.0W,,,,,
+124,WB7RKR,224.10000,-,1.5999999999999943,Tone,114.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+125,AB7BS,441.85000,+,5,DCS,D125,D125,D125,NN,023,,FM,5,,1.0W,,,,,
+126,W7OC,147.18000,+,0.5999999999999943,Tone,146.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+127,WB6MFV,441.87500,+,5,Tone,88.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+128,WB7RKR,444.62500,+,5,Tone,91.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+129,WA7JAW,440.62500,+,5,Tone,114.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+130,W7PRA,146.70000,-,0.5999999999999943,TSQL,136.5,91.5,023,NN,023,,FM,5,,1.0W,,,,,
+131,WB7RKR,444.87500,+,5,Tone,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+132,AB7BS,147.14000,+,0.6000000000000227,TSQL,136.5,91.5,023,NN,023,,FM,5,,1.0W,,,,,
+133,K7RBG,147.22000,+,0.5999999999999943,TSQL,67.0,67.0,023,NN,023,,FM,5,,1.0W,,,,,
+134,W7OC,444.40000,+,5,,127.3,123.0,023,NN,023,,FM,5,,1.0W,,,,,
+135,AB7BS,444.90000,+,5,DCS,D125,127.3,D125,NN,023,,FM,5,,1.0W,,,,,
+136,K7BRG,145.47000,-,0.5999999999999943,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+137,KG7YHY,449.25000,-,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+138,N7TZ,441.87500,+,5,Tone,162.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+139,KK7HEP,440.92500,+,5,TSQL,77.0,77.0,023,NN,023,,FM,5,,1.0W,,,,,
+140,W7JVO,145.24000,-,0.6000000000000227,Tone,162.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+141,N7LZM,146.64000,-,0.5999999999999943,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+142,N7LZM,147.22000,+,0.5999999999999943,TSQL,103.5,103.5,023,NN,023,,FM,5,,1.0W,,,,,
+143,,145.43000,-,0.5999999999999943,Tone,136.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+144,KF7HPT,146.76000,-,0.5999999999999943,Tone,103.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+145,W7JVO,147.30000,+,0.5999999999999943,Tone,162.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+146,AB7BS,145.11000,-,0.6000000000000227,TSQL,136.5,67.0,023,NN,023,,FM,5,,1.0W,,,,,
+147,WA7ROB,145.15000,-,0.5999999999999943,Tone,94.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+148,KF7LN,147.10000,+,0.5999999999999943,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+149,KF7LN,440.95000,+,5,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+150,KF7LN,927.16250,-,25,TSQL,151.4,151.4,023,NN,023,,FM,5,,1.0W,,,,,
+151,KA7HRC,444.90000,+,5,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+152,AF7YV,440.60000,+,5,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+153,N7LF,443.32500,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+154,AB7BS,442.30000,+,5,DCS,D125,D125,D125,NN,023,,FM,5,,1.0W,,,,,
+155,W9PCI,147.06000,+,0.5999999999999943,Tone,CSQ,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+156,W9PCI,146.62000,-,0.5999999999999943,Tone,123.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+157,WX7MFR,440.70000,+,5,Tone,162.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+158,WA6RHK,440.82500,+,5,Tone,136.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+159,AB7BS,444.82500,+,5,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+160,AB7BS,147.16000,+,0.5999999999999943,TSQL,136.5,91.5,023,NN,023,,FM,5,,1.0W,,,,,
+161,W9PCI,145.33000,-,0.6000000000000227,Tone,123.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+162,AK7SB,147.10000,+,0.5999999999999943,Tone,136.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+163,K7RVM,147.00000,+,0.5999999999999943,Tone,123.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+164,K7RPT,147.02000,+,0.5999999999999943,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+165,WX7MFR,147.26000,+,0.6000000000000227,Tone,123.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+166,KL7VK,443.15000,+,5,Tone,136.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+167,KE7MVI,443.77500,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+168,KB7QMV,145.41000,-,0.5999999999999943,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+169,W9PCI,444.10000,+,5,Tone,123.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+170,W9PCI,444.20000,+,5,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+171,W9PCI,444.30000,+,5,Tone,123.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+172,KL7VK,147.38000,+,0.5999999999999943,Tone,131.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+173,K7JAX,146.84000,-,0.5999999999999943,Tone,123.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+174,KL7VK,146.72000,-,0.5999999999999943,Tone,131.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+175,K7RVM,444.45000,+,5,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+176,KG7FOJ,145.24000,-,0.6000000000000227,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+177,KG7FOJ,444.65000,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+178,KG7FOJ,1293.12500,+,20,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+179,WA6HWW,145.27000,-,0.6000000000000227,TSQL,136.5,136.5,023,NN,023,,FM,5,,1.0W,,,,,
+180,KG7FOJ,1248.50000,-,20,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+181,WD7RW,52.81000,-,1.7000000000000028,Tone,103.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+182,WD7FGX,444.25000,+,5,TSQL,103.5,103.5,023,NN,023,,FM,5,,1.0W,,,,,
+183,K7RVM,440.22500,+,5,Tone,131.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+184,,440.72500,+,5,DCS,D023,D023,D023,NN,023,,FM,5,,1.0W,,,,,
+185,W9PCI,147.24000,+,0.5999999999999943,Tone,123.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+186,KD7MPA,442.80000,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+187,KL7XL,145.00000,,0,DCS,D503,127.3,D503,NN,023,,FM,5,,1.0W,,,,,
+188,KL7XL,439.00000,,0,DCS,D503,127.3,D503,NN,023,,FM,5,,1.0W,,,,,
+189,W7JVO,147.18000,+,0.5999999999999943,Tone,162.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+190,K7RPT,442.22500,+,5,Tone,114.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+191,KC7DMF,444.42500,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+192,WB6YQP,145.49000,-,0.6000000000000227,Tone,136.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+193,W7PRA,146.94000,-,0.5999999999999943,DCS,D023,D023,D023,NN,023,,FM,5,,1.0W,,,,,
+194,WA6OTP,147.22000,+,0.5999999999999943,Tone,CSQ,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+195,K7LIX,147.30000,+,0.5999999999999943,Tone,136.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+196,WB6YQP,147.34000,+,0.5999999999999943,Tone,136.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+197,AB7BS,444.50000,+,5,DCS,D125,D125,D125,NN,023,,FM,5,,1.0W,,,,,
+198,AB7BS,440.55000,+,5,Tone,173.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+199,KE7LKX,440.46250,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+200,W6PRN,443.52500,+,5,Tone,173.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+201,WD7FGX,52.81000,-,0.5,TSQL,103.5,103.5,023,NN,023,,FM,5,,1.0W,,,,,
+202,W6PRN,444.67500,+,5,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+203,W2HR,449.97500,,0,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+204,WA6RHK,440.67500,+,5,Tone,136.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+205,AA1JW,145.47000,-,0.5999999999999943,Tone,123.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+206,W7VW,146.61000,-,0.6000000000000227,TSQL,118.8,118.8,023,NN,023,,FM,5,,1.0W,,,,,
+207,W7VW,146.85000,-,0.5999999999999943,TSQL,118.8,118.8,023,NN,023,,FM,5,,1.0W,,,,,
+208,W7VW,443.90000,+,5,Tone,118.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+209,K6PRN,443.20000,+,5,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+210,AB7BS,147.20000,+,0.6000000000000227,TSQL,136.5,91.5,023,NN,023,,FM,5,,1.0W,,,,,
+211,,147.18000,+,0.5999999999999943,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+212,KD7TNG,442.52500,+,5,Tone,118.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+213,K7LNK,444.95000,+,5,TSQL,136.5,82.5,023,NN,023,,FM,5,,1.0W,,,,,
+214,AB7BS,147.14000,+,0.6000000000000227,TSQL,141.3,91.5,023,NN,023,,FM,5,,1.0W,,,,,
+215,W7JVO,147.20000,+,0.6000000000000227,Tone,162.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+216,KE7QP,145.31000,-,0.5999999999999943,Tone,173.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+217,KE7QP,146.80000,-,0.6000000000000227,Tone,173.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+218,KE7QP,147.34000,+,0.5999999999999943,Tone,173.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+219,AA1JW,145.15000,-,0.5999999999999943,Tone,173.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+220,W7ARD,53.03000,-,1.7000000000000028,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+221,W7EUG,146.68000,-,0.5999999999999943,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+222,W7PXL,146.72000,-,0.5999999999999943,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+223,W7PRA,441.62500,+,5,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+224,W7ARD,53.07000,-,1.7000000000000028,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+225,W7EUG,145.37000,-,0.5999999999999943,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+226,W7ZQE,146.66000,-,0.5999999999999943,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+227,K7SLA,443.02500,+,5,Tone,156.7,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+228,WA7FQD,146.74000,-,0.6000000000000227,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+229,W7NK,146.76000,-,0.5999999999999943,Tone,123.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+230,W7FLO,146.80000,-,0.6000000000000227,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+231,K7TBL,146.88000,-,0.5999999999999943,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+232,N7NPA,146.98000,-,0.5999999999999943,Tone,88.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+233,W7CQZ,147.08000,+,0.5999999999999943,TSQL,100.0,91.5,023,NN,023,,FM,5,,1.0W,,,,,
+234,W7NK,147.26000,+,0.6000000000000227,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+235,W7NK,147.36000,+,0.5999999999999943,TSQL,123.0,123.0,023,NN,023,,FM,5,,1.0W,,,,,
+236,K7QT,441.12500,+,5,TSQL,141.3,141.3,023,NN,023,,FM,5,,1.0W,,,,,
+237,W7PRA,441.67500,+,5,DCS,D023,D023,D023,NN,023,,FM,5,,1.0W,,,,,
+238,K7THO,442.12500,+,5,DCS,D125,D125,D125,NN,023,,FM,5,,1.0W,,,,,
+239,W7FLO,442.57500,+,5,DCS,D125,D125,D125,NN,023,,FM,5,,1.0W,,,,,
+240,W7NK,443.50000,+,5,TSQL,103.5,103.5,023,NN,023,,FM,5,,1.0W,,,,,
+241,K7RPT,443.80000,+,5.024999999999977,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+242,AB7BS,145.13000,-,0.5999999999999943,DCS,D023,D023,D023,NN,023,,FM,5,,1.0W,,,,,
+243,W7NK,145.17000,-,0.5999999999999943,TSQL,123.0,123.0,023,NN,023,,FM,5,,1.0W,,,,,
+244,K7UND,441.32500,+,5,DCS,D023,D023,D023,NN,023,,FM,5,,1.0W,,,,,
+245,W7SLA,145.23000,-,0.5999999999999943,TSQL,110.9,110.9,023,NN,023,,FM,5,,1.0W,,,,,
+246,W7SLA,145.31000,-,0.5999999999999943,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+247,W7DTV,442.80000,+,5,TSQL,77.0,77.0,023,NN,023,,FM,5,,1.0W,,,,,
+248,W7NK,442.90000,+,5,TSQL,110.9,110.9,023,NN,023,,FM,5,,1.0W,,,,,
+249,W7ARD,145.45000,-,0.5999999999999943,TSQL,123.0,123.0,023,NN,023,,FM,5,,1.0W,,,,,
+250,W7PRA,147.34000,+,0.5999999999999943,DCS,D023,D023,D023,NN,023,,FM,5,,1.0W,,,,,
+251,W7ZQD,443.05000,+,5,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+252,W7EXH,224.70000,-,1.5999999999999943,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+253,K7SLA,443.10000,+,5,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+254,W6PRN,444.35000,+,5,Tone,173.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+255,W7EXH,443.27500,+,5,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+256,AB7BS,145.39000,-,0.5999999999999943,DCS,D025,D025,D025,NN,023,,FM,5,,1.0W,,,,,
+257,AB7BS,444.80000,+,5,DCS,D125,127.3,D125,NN,023,,FM,5,,1.0W,,,,,
+258,K7LNK,444.92500,+,5,DCS,D125,127.3,D125,NN,023,,FM,5,,1.0W,,,,,
+259,AB7BS,147.14000,+,0.6000000000000227,TSQL,136.5,91.5,023,NN,023,,FM,5,,1.0W,,,,,
+260,AB7BS,443.57500,+,5,DCS,D125,D125,D125,NN,023,,FM,5,,1.0W,,,,,
+261,W7FLO,441.10000,+,5,DCS,D125,D125,D125,NN,023,,FM,5,,1.0W,,,,,
+262,N7NPA,440.10000,+,5,Tone,110.9,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+263,K7LNK,444.55000,+,5,TSQL,100.0,91.5,023,NN,023,,FM,5,,1.0W,,,,,
+264,,440.80000,+,5,TSQL,103.5,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+265,W7OEC,442.42500,+,5,Tone,67.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+266,K7REA,442.70000,+,5,Tone,123.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+267,KC7RJK,444.45000,+,5,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+268,KC7RJK,444.42500,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+269,K7EZR,145.55000,,0,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+270,W7OC,145.15000,-,0.5999999999999943,TSQL,146.2,146.2,023,NN,023,,FM,5,,1.0W,,,,,
+271,AI7NC,441.22500,+,5,TSQL,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+272,W7VTW,145.37000,-,0.5999999999999943,Tone,167.9,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+273,W7VTW,147.00000,+,0.5999999999999943,Tone,136.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+274,W7VTW,147.04000,+,0.5999999999999943,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+275,W7VTW,147.30000,+,0.5999999999999943,TSQL,156.7,156.7,023,NN,023,,FM,5,,1.0W,,,,,
+276,W7VTW,444.47500,+,5,Tone,103.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+277,W7GC,444.75000,+,5,Tone,118.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+278,W7PRA,145.39000,-,0.5999999999999943,DCS,D023,D023,D023,NN,023,,FM,5,,1.0W,,,,,
+279,N7HQR,147.06000,+,0.5999999999999943,TSQL,156.7,CSQ,023,NN,023,,FM,5,,1.0W,,,,,
+280,KA7ENW,146.61000,-,0.6000000000000227,Tone,167.9,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+281,K7ENW,147.20000,+,0.6000000000000227,TSQL,167.9,167.9,023,NN,023,,FM,5,,1.0W,,,,,
+282,KD6VLR,444.97500,+,5,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+283,KA7ENW,442.85000,+,5,Tone,167.9,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+284,W1ARK,147.06000,+,0.5999999999999943,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+285,KG7MKW,440.60000,+,5,TSQL,103.5,103.5,023,NN,023,,FM,5,,1.0W,,,,,
+286,W7PRA,444.82500,+,5,DCS,D023,D023,D023,NN,023,,FM,5,,1.0W,,,,,
+287,W7NK,147.26000,+,0.6000000000000227,DCS,D026,D026,D026,NN,023,,FM,5,,1.0W,,,,,
+288,KG7BZ,52.91000,-,1.6999999999999957,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+289,KG7BZ,443.12500,+,5,TSQL,77.0,77.0,023,NN,023,,FM,5,,1.0W,,,,,
+290,K7VFO,224.00000,-,1.5999999999999943,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+291,W7WZA,147.30000,+,0.5999999999999943,Tone,77.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+292,W7NK,443.25000,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+293,K7OJI,444.15000,+,5,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+294,K7OJI,147.10000,+,0.5999999999999943,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+295,K7RHB,443.15000,+,5,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+296,AB7F,441.37500,+,5,Tone,123.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+297,WA7ABU,145.29000,-,0.5999999999999943,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+298,K7LWV,145.35000,-,0.5999999999999943,TSQL,CSQ,CSQ,023,NN,023,,FM,5,,1.0W,,,,,
+299,W7SRA,441.27500,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+300,W7SRA,443.72500,+,5,TSQL,186.2,186.2,023,NN,023,,FM,5,,1.0W,,,,,
+301,W7SAA,444.25000,+,5,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+302,WA7ABU,444.95000,+,5,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+303,W7SRA,146.86000,-,0.6000000000000227,Tone,186.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+304,AB7BS,145.49000,-,0.6000000000000227,TSQL,136.5,91.5,023,NN,023,,FM,5,,1.0W,,,,,
+305,K7UN,441.70000,+,5,Tone,186.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+306,W7BJH,224.16000,-,1.5999999999999943,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+307,AD7ET,443.17500,+,5,TSQL,88.5,88.5,023,NN,023,,FM,5,,1.0W,,,,,
+308,WA7ABU,145.19000,-,0.5999999999999943,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+309,W7DTV,441.17500,+,5,TSQL,77.0,77.0,023,NN,023,,FM,5,,1.0W,,,,,
+310,AC7RF,440.27500,+,5,TSQL,107.2,107.2,023,NN,023,,FM,5,,1.0W,,,,,
+311,W7SAA,147.34000,+,0.5999999999999943,Tone,77.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+312,KB7PPM,440.72500,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+313,K7RTL,440.05000,+,5,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+314,KB7PPM,440.86250,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+315,KB7APU,442.97500,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+316,W7URG,146.62000,-,0.5999999999999943,Tone,88.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+317,KC7SOY,146.78000,-,0.5999999999999943,Tone,67.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+318,AI7HO,147.16000,+,0.5999999999999943,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+319,KC7SOY,145.23000,-,0.5999999999999943,TSQL,67.0,CSQ,023,NN,023,,FM,5,,1.0W,,,,,
+320,WB7ILL,444.85000,+,5,TSQL,118.8,118.8,023,NN,023,,FM,5,,1.0W,,,,,
+321,W7NEO,145.37000,-,0.5999999999999943,DCS,D073,D073,D073,NN,023,,FM,5,,1.0W,,,,,
+322,K7LJ,145.23000,-,0.5999999999999943,TSQL,CSQ,123.0,023,NN,023,,FM,5,,1.0W,,,,,
+323,K7LJ,145.39000,-,0.5999999999999943,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+324,KE7AWR,146.70000,-,0.5999999999999943,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+325,N7EXH,146.98000,-,0.5999999999999943,DCS,D023,D023,D023,NN,023,,FM,5,,1.0W,,,,,
+326,K7RPT,147.04000,+,0.5999999999999943,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+327,KB7OYI,440.35000,+,5,TSQL,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+328,W7RAT,440.40000,+,5,TSQL,123.0,123.0,023,NN,023,,FM,5,,1.0W,,,,,
+329,N7PIR,440.45000,+,5,TSQL,103.5,103.5,023,NN,023,,FM,5,,1.0W,,,,,
+330,W7EXH,441.35000,+,5,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+331,N7NLL,442.02500,+,5,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+332,K7RPT,442.22500,+,5,TSQL,103.5,103.5,023,NN,023,,FM,5,,1.0W,,,,,
+333,W7PMC,443.22500,+,5,TSQL,107.2,107.2,023,NN,023,,FM,5,,1.0W,,,,,
+334,W7DTV,443.62500,+,5,TSQL,77.0,77.0,023,NN,023,,FM,5,,1.0W,,,,,
+335,K0HSU,440.47500,+,5,TSQL,123.0,123.0,023,NN,023,,FM,5,,1.0W,,,,,
+336,N7LF,145.41000,-,0.5999999999999943,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+337,K7LTA,442.70000,+,5,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+338,K7LJ,442.65000,+,5,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+339,K7LHS,440.82500,+,5,TSQL,110.9,110.9,023,NN,023,,FM,5,,1.0W,,,,,
+340,K7QDX,927.12500,-,25,TSQL,103.5,103.5,023,NN,023,,FM,5,,1.0W,,,,,
+341,K7LJ,443.30000,+,5,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+342,N7EXH,145.31000,-,0.5999999999999943,TSQL,123.0,123.0,023,NN,023,,FM,5,,1.0W,,,,,
+343,N7BAR,440.20000,+,5,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+344,W7AC,147.14000,+,0.6000000000000227,Tone,107.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+345,N7PRM,444.80000,+,5,Tone,107.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+346,WA7BND,443.05000,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+347,K6PRN,443.20000,+,5,Tone,173.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+348,WB1ARB,442.25000,+,5,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+349,W7PGE,444.67500,+,5,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+350,KB7APU,440.62500,+,5,TSQL,Restricted,Restricted,023,NN,023,,FM,5,,1.0W,,,,,
+351,AB7BS,440.50000,+,5,DCS,D125,D125,D125,NN,023,,FM,5,,1.0W,,,,,
+352,N7LF,443.10000,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+353,KA7AGH,443.27500,+,5,TSQL,167.9,167.9,023,NN,023,,FM,5,,1.0W,,,,,
+354,KG7KOU,1249.75000,-,20,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+355,WA7HAA,444.83750,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+356,N7LF,443.07500,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+357,K7RPT,440.51250,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+358,N7KOJ,443.25000,+,5,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+359,K7KSN,440.15000,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+360,KB7APU,927.15000,-,25,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+361,K7CLL,440.01250,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+362,KB7APU,440.77500,+,5,TSQL,Restricted,Restricted,023,NN,023,,FM,5,,1.0W,,,,,
+363,W7SRA,145.33000,-,0.6000000000000227,TSQL,186.2,186.2,023,NN,023,,FM,5,,1.0W,,,,,
+364,W7SRA,147.02000,+,0.5999999999999943,TSQL,186.2,186.2,023,NN,023,,FM,5,,1.0W,,,,,
+365,W7BJH,442.50000,+,5,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+366,KE7AAJ,927.70000,-,25,Tone,162.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+367,W7BJH,224.60000,-,1.5999999999999943,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+368,N7PIR,440.07500,+,5,TSQL,103.5,103.5,023,NN,023,,FM,5,,1.0W,,,,,
+369,W6WHD,224.92000,-,1.5999999999999943,Tone,136.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+370,AB7BS,442.45000,+,5,DCS,D125,D125,D125,NN,023,,FM,5,,1.0W,,,,,
+371,W7GRT,146.66000,-,0.5999999999999943,TSQL,136.5,91.5,023,NN,023,,FM,5,,1.0W,,,,,
+372,W7GRT,442.82500,+,5,Tone,123.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+373,KJ7IY,145.27000,-,0.6000000000000227,TSQL,107.2,107.2,023,NN,023,,FM,5,,1.0W,,,,,
+374,W7EM,440.17500,+,5,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+375,W7LI,147.22000,+,0.5999999999999943,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+376,W7GC,440.90000,+,5,TSQL,118.8,118.8,023,NN,023,,FM,5,,1.0W,,,,,
+377,W7LI,441.25000,+,5,Tone,118.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+378,W7EM,441.30000,+,5,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+379,W7GC,442.75000,+,5,Tone,118.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+380,WB7QIW,443.07500,+,5,Tone,167.9,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+381,W7EM,440.52500,+,5,Tone,77.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+382,W7GC,147.39000,+,0.6000000000000227,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+383,KB7APU,442.81250,+,5,TSQL,Restricted,Restricted,023,NN,023,,FM,5,,1.0W,,,,,
+384,W7MOC,444.42500,+,5,Tone,107.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+385,W7MOC,442.12500,+,5,Tone,123.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+386,WF7S,146.80000,-,0.6000000000000227,TSQL,123.0,123.0,023,NN,023,,FM,5,,1.0W,,,,,
+387,K7RPT,145.33000,-,0.6000000000000227,Tone,103.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+388,W7NEO,146.88000,-,0.5999999999999943,DCS,D073,D073,D073,NN,023,,FM,5,,1.0W,,,,,
+389,KD7DDQ,147.28000,+,0.5999999999999943,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+390,N7NKT,224.56000,-,1.5999999999999943,Tone,CSQ,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+391,N7DWC,444.65000,+,5,Tone,CSQ,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+392,W7URG,444.95000,+,5,Tone,136.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+393,W7NEO,444.97500,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+394,N7ERT,927.50000,-,25,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+395,W7URG,441.95000,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+396,W7NEO,147.04000,+,0.5999999999999943,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+397,W7NEO,441.70000,+,5,TSQL,131.8,131.8,023,NN,023,,FM,5,,1.0W,,,,,
+398,WB7ILL,443.80000,+,5,TSQL,118.8,118.8,023,NN,023,,FM,5,,1.0W,,,,,
+399,K7UNI,145.15000,-,0.5999999999999943,TSQL,110.9,110.9,023,NN,023,,FM,5,,1.0W,,,,,
+400,K7RPT,147.26000,+,0.6000000000000227,Tone,103.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+401,KF7GOR,444.92500,+,5,TSQL,146.2,146.2,023,NN,023,,FM,5,,1.0W,,,,,
+402,W7GRA,146.98000,-,0.5999999999999943,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+403,W7NEO,145.29000,-,0.5999999999999943,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+404,KB7DZR,147.00000,+,0.5999999999999943,TSQL,103.5,103.5,023,NN,023,,FM,5,,1.0W,,,,,
+405,KB7DZR,444.78750,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+406,KC7LDD,146.74000,-,0.6000000000000227,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+407,WC7EC,147.26000,+,0.6000000000000227,Tone,82.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+408,KF7LN,444.70000,+,5,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+409,W7PSV,444.85000,+,5,Tone,123.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+410,N7QQU,147.36000,+,0.5999999999999943,TSQL,107.2,107.2,023,NN,023,,FM,5,,1.0W,,,,,
+411,K7RPT,147.32000,+,0.5999999999999943,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+412,K7RPT,147.38000,+,0.5999999999999943,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+413,K7WWG,442.05000,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+414,K7RPT,442.32500,+,5,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+415,KA7OSM,442.52500,+,5,TSQL,107.2,107.2,023,NN,023,,FM,5,,1.0W,,,,,
+416,NM7B,443.35000,+,5,Tone,156.7,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+417,K7CPU,444.97500,+,5,TSQL,107.2,107.2,023,NN,023,,FM,5,,1.0W,,,,,
+418,KE7DC,145.45000,-,0.5999999999999943,Tone,136.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+419,WB7DZG,1292.00000,-,20,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+420,KJ7IY,441.82500,+,5,TSQL,107.2,107.2,023,NN,023,,FM,5,,1.0W,,,,,
+421,K7ICY,440.10000,+,5,Tone,162.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+422,N7QQU,440.55000,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+423,WB7DZG,444.31250,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+424,WB7DZG,146.62000,-,0.5999999999999943,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+425,KJ7IY,927.11250,-,25,TSQL,107.2,107.2,023,NN,023,,FM,5,,1.0W,,,,,
+426,K7RPT,443.75000,+,5,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+427,KR7IS,52.85000,-,1.7000000000000028,Tone,107.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+428,N7PRM,444.80000,+,5,Tone,107.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+429,KF7TTS,440.17500,+,5,TSQL,110.9,110.9,023,NN,023,,FM,5,,1.0W,,,,,
+430,WB7CRT,444.75000,+,5,Tone,123.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+431,KB7APU,444.02500,+,5,TSQL,Restricted,Restricted,023,NN,023,,FM,5,,1.0W,,,,,
+432,KJ7IY,442.27500,+,5,Tone,107.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+433,K7REA,442.57500,+,5,Tone,123.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+434,KJ7ECQ,444.52500,+,5,Tone,136.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+435,KG7RFM,441.47500,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+436,K7RPT,440.81250,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+437,K0HSU,440.07500,+,5,TSQL,123.0,123.0,023,NN,023,,FM,5,,1.0W,,,,,
+438,NA7A,440.75000,+,5,Tone,97.4,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+439,NA7A,145.25000,-,0.5999999999999943,Tone,97.4,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+440,KG7CXO,146.68000,-,0.5999999999999943,Tone,162.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+441,KR7IS,145.47000,-,0.5999999999999943,TSQL,107.2,107.2,023,NN,023,,FM,5,,1.0W,,,,,
+442,AH6LE,146.92000,-,0.5999999999999943,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+443,AH6LE,442.67500,+,5,TSQL,100.0,100.0,023,NN,023,,FM,5,,1.0W,,,,,
+444,KR7IS,443.42500,+,5,Tone,107.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+445,WA7RGO,442.55000,+,5,Tone,114.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+446,K7AUO,1291.50000,-,20,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+447,K7WWG,146.90000,-,0.5999999999999943,TSQL,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+448,KR7IS,224.06000,-,1.5999999999999943,Tone,107.2,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+449,K7AUO,443.65000,+,5,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+450,KB7PSM,145.11000,-,0.6000000000000227,Tone,103.5,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+451,W7RXJ,146.64000,-,0.5999999999999943,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+452,W7YAM,441.80000,+,5,Tone,114.8,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+453,KR7IS,52.83000,-,1.6999999999999957,TSQL,107.2,107.2,023,NN,023,,FM,5,,1.0W,,,,,
+454,AC7ZQ,224.56000,-,1.5999999999999943,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+455,N7MAQ,444.48750,+,5,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+456,N7MAQ,52.89000,-,1.7000000000000028,Tone,156.7,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+457,WA7SUP,926.26250,-,10,,127.3,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+458,W1ARK,145.21000,-,0.5999999999999943,Tone,110.9,127.3,023,NN,023,,FM,5,,1.0W,,,,,
+459,K7JCN,224.20000,-,1.5999999999999943,Tone,100.0,127.3,023,NN,023,,FM,5,,1.0W,,,,,

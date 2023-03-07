@@ -46,7 +46,7 @@ function parseData(data) {
     headerKeys.forEach((header, index) => {
       switch (header) {
         case "sLocation":
-          station[header] = index + 1;
+          station[header] = acc.length + 1;
           break;
         case "Name":
           station[header] = curr["Callsign"];
@@ -63,9 +63,11 @@ function parseData(data) {
           );
           break;
         case "Offset":
-          station[header] = findOffset(
-            parseFloat(curr["Input Freq"]),
-            parseFloat(curr["Frequency"])
+          station[header] = Math.abs(
+            findOffset(
+              parseFloat(curr["Input Freq"]),
+              parseFloat(curr["Frequency"])
+            )
           );
           break;
         case "Tone":
@@ -98,15 +100,45 @@ function parseData(data) {
           } else {
             station[header] = "023";
           }
+          break;
+        case "DtcsPolarity":
+          station[header] = "NN";
+          break;
+        case "RxDtcsCode":
+          station[header] = "023";
+          break;
+        case "Mode":
+          station[header] = "FM";
+          break;
+        case "TStep":
+          //Wtf is this
+          station[header] = 5;
+          break;
+        case "Skip":
+          station[header] = "";
+          break;
+        case "Power":
+          station[header] = "1.0W";
+          break;
+        case "Comment":
+        case "URCALL":
+        case "RPT1CALL":
+        case "RPT2CALL":
+          station[header] = "";
+          break;
         default:
+          station[header] = "";
           break;
       }
     });
+
+    acc.push(station);
+    return acc;
   }, []);
 
   return {
-    header: Object.keys(data[0]).map((key) => ({ id: key, title: key })),
-    body: data,
+    header: headerKeys.map((key) => ({ id: key, title: key })),
+    body: body,
   };
 }
 
@@ -125,10 +157,10 @@ function findOffset(inputFrequency, frequency) {
 
 function findDuplex(offset) {
   if (offset > 0) {
-    station[header] = "+";
+    return "+";
   } else if (offset < 0) {
-    station[header] = "-";
+    return "-";
   } else {
-    station[header] = "";
+    return "";
   }
 }
